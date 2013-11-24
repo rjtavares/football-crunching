@@ -1,0 +1,1147 @@
+,dist,dx,dy,goal,player,team,x,y
+0,28.9895637946,28.245,6.528,False,James Rodríguez,Porto,76.755,28.832
+2,19.254174846,-18.585,5.032,False,Sammir,Dinamo Zagreb,18.585,27.404
+8,25.7728136609,-20.79,-15.232,False,Duje Čop,Dinamo Zagreb,20.79,48.28
+10,35.1805667379,33.81,-9.724,False,Maicon,Porto,71.19,44.2
+12,13.755,13.755,0.0,False,Miguel Lopes,Porto,91.245,38.012
+16,15.3800306892,14.28,5.712,True,Lucho González,Porto,90.72,29.172
+17,28.3911555947,-22.89,-16.796,False,João Moutinho,Porto,22.89,48.28
+18,5.69868616437,5.46,1.632,False,Tonel,Dinamo Zagreb,99.54,29.988
+20,24.1202661884,-24.045,-1.904,False,James Rodríguez,Porto,24.045,36.72
+22,13.1218834014,-13.02,-1.632,False,Nicolás Otamendi,Porto,13.02,35.496
+23,11.8505528985,11.55,-2.652,False,Domagoj Vida,Dinamo Zagreb,93.45,32.368
+24,15.2098769226,-11.97,-9.384,False,Christian Atsu,Porto,11.97,41.888
+33,8.74320999405,1.365,-8.636,False,Bryan Carrasco,Dinamo Zagreb,103.635,45.764
+35,13.8034488444,-9.66,9.86,False,Kléber,Porto,9.66,28.084
+39,18.5993871136,-15.855,-9.724,False,Christian Atsu,Porto,15.855,42.704
+41,19.5455603399,-18.585,-6.052,False,Steven Defour,Porto,18.585,39.644
+46,13.3816878233,-11.865,6.188,True,Steven Defour,Porto,11.865,27.608
+47,11.3555724206,-11.025,2.72,True,Zlatan Ibrahimović,PSG,11.025,34.0
+51,28.7954792459,27.405,-8.84,False,Ideye Brown,Dynamo Kyiv,77.595,44.948
+55,22.3082872718,-13.335,17.884,False,Javier Pastore,PSG,13.335,17.068
+60,11.2578513048,-7.14,-8.704,False,Zlatan Ibrahimović,PSG,7.14,40.596
+61,15.1676527189,-13.755,-6.392,False,Javier Pastore,PSG,13.755,39.304
+62,11.6558352768,-5.88,10.064,True,Thiago Silva,PSG,5.88,26.112
+64,11.9514231789,-10.71,5.304,True,Alex,PSG,10.71,31.28
+65,15.053454753,14.49,4.08,False,Raffael,Dynamo Kyiv,90.51,29.58
+68,22.1742598749,-19.005,11.424,False,Marco Verratti,PSG,19.005,20.672
+69,20.8699694537,19.845,-6.46,False,Miguel Veloso,Dynamo Kyiv,85.155,42.908
+72,19.6189951068,18.165,-7.412,False,Niko Kranjčar,Dynamo Kyiv,86.835,36.448
+77,15.5106313218,-14.07,-6.528,False,Zlatan Ibrahimović,PSG,14.07,39.78
+84,24.5066401002,24.465,-1.428,False,Zlatan Ibrahimović,PSG,80.535,36.992
+101,27.2157051902,-23.415,13.872,False,Niko Kranjčar,Dynamo Kyiv,23.415,21.624
+114,20.4335077997,11.025,-17.204,False,Javier Pastore,PSG,93.975,46.512
+116,18.1535918209,-6.72,16.864,False,Ideye Brown,Dynamo Kyiv,6.72,19.992
+118,23.7558683487,-13.545,19.516,True,Miguel Veloso,Dynamo Kyiv,13.545,11.492
+122,15.0935880757,7.455,13.124,True,Javier Pastore,PSG,97.545,21.216
+126,21.4734729608,19.005,-9.996,False,Nenê,PSG,85.995,41.616
+127,11.0503451982,-11.025,0.748,True,Younes Belhanda,Montpellier,11.025,34.0
+129,34.3794590417,-28.35,19.448,False,Rémy Cabella,Montpellier,28.35,18.088
+133,11.0302413845,11.025,0.34,True,Lukas Podolski,Arsenal,93.975,36.992
+136,5.273268531,5.145,-1.156,True,Gervinho,Arsenal,99.855,34.612
+138,29.6427478483,-28.77,7.14,False,Marco Estrada,Montpellier,28.77,22.236
+141,10.5385304953,9.975,3.4,False,Olivier Giroud,Arsenal,95.025,26.384
+142,11.1694863355,8.295,-7.48,False,Rémy Cabella,Montpellier,96.705,45.356
+145,31.9476236362,22.26,-22.916,False,Garry Bocaly,Montpellier,82.74,50.184
+148,17.4240014061,15.015,-8.84,False,Garry Bocaly,Montpellier,89.985,46.92
+150,20.471895369,20.37,2.04,False,Anthony Mounier,Montpellier,84.63,26.452
+151,24.0665229936,20.475,-12.648,False,Rémy Cabella,Montpellier,84.525,47.6
+152,39.9019670693,31.08,-25.024,False,Marco Estrada,Montpellier,73.92,61.404
+153,16.927686227,-8.295,-14.756,False,Santi Cazorla,Arsenal,8.295,47.736
+155,34.2365373395,21.315,-26.792,False,Marco Estrada,Montpellier,83.685,58.548
+156,27.5502993813,26.25,-8.364,False,Karim Aït-Fana,Montpellier,78.75,39.576
+159,11.3046970769,10.92,-2.924,False,Younes Belhanda,Montpellier,94.08,36.516
+161,31.1970771868,-21.315,-22.78,False,Paulo Machado,Olympiacos,21.315,52.36
+163,17.5489847,15.12,-8.908,False,Klaas-Jan Huntelaar,Schalke,89.88,35.972
+164,31.5165099591,-31.5,-1.02,False,José Holebas,Olympiacos,31.5,30.328
+166,15.3286822656,-11.13,-10.54,False,Rafik Djebbour,Olympiacos,11.13,39.576
+173,35.6357625006,35.175,5.712,False,Roman Neustädter,Schalke,69.825,29.376
+175,10.9560204454,10.5,-3.128,True,Benedikt Höwedes,Schalke,94.5,38.08
+180,24.4674232399,-22.68,-9.18,False,Christian Fuchs,Schalke,22.68,45.016
+181,13.011183651,-11.97,-5.1,False,Tranquillo Barnetta,Schalke,11.97,37.876
+184,16.9491239007,16.695,2.924,False,David Fuster,Olympiacos,88.305,35.904
+187,14.1214178113,13.755,-3.196,True,Djamel Abdoun,Olympiacos,91.245,37.196
+195,16.5901393605,-16.59,0.068,True,Klaas-Jan Huntelaar,Schalke,16.59,30.396
+196,16.5968822373,-16.17,-3.74,False,Klaas-Jan Huntelaar,Schalke,16.17,34.0
+198,33.0983320426,-28.56,16.728,False,Jefferson Farfán,Schalke,28.56,21.08
+205,24.021940492,-18.795,-14.96,False,Tranquillo Barnetta,Schalke,18.795,44.472
+210,27.9320991155,21.735,17.544,False,Ariel Ibagaza,Olympiacos,83.265,20.128
+217,27.3066299825,-24.675,11.696,False,Jefferson Farfán,Schalke,24.675,26.588
+219,31.3091897691,-25.41,18.292,False,Lewis Holtby,Schalke,25.41,20.264
+221,12.3425372189,11.865,-3.4,False,Leandro Greco,Olympiacos,93.135,31.824
+232,17.1080297229,-11.445,12.716,False,Klaas-Jan Huntelaar,Schalke,11.445,23.732
+235,9.4340566036,7.98,5.032,False,Rafik Djebbour,Olympiacos,97.02,24.888
+238,13.5847708851,-11.34,-7.48,True,Isco,Málaga,11.34,44.88
+240,21.3128825831,20.79,-4.692,False,Igor Denisov,Zenit,84.21,42.84
+252,9.18643570706,-8.925,-2.176,True,Javier Saviola,Málaga,8.925,34.136
+260,10.6156771334,-10.605,0.476,False,Javier Saviola,Málaga,10.605,29.444
+264,12.6491916343,-4.095,11.968,False,Javier Saviola,Málaga,4.095,24.412
+268,29.4028447773,29.295,2.516,False,Igor Denisov,Zenit,75.705,29.444
+270,22.2167353362,-19.215,-11.152,False,Eliseu,Málaga,19.215,48.892
+276,30.7282606081,27.72,-13.26,False,Roman Shirokov,Zenit,77.28,42.432
+282,17.0118852865,-16.905,-1.904,False,Eliseu,Málaga,16.905,41.344
+293,33.3656331575,25.41,21.624,False,Viktor Fayzulin,Zenit,79.59,14.824
+301,10.2684772484,-7.035,-7.48,False,Javier Saviola,Málaga,7.035,37.264
+303,20.2764056233,-20.265,-0.68,False,Javier Saviola,Málaga,20.265,32.3
+308,27.1800041391,21.735,-16.32,False,Hulk,Zenit,83.265,47.26
+309,26.427302719,25.725,-6.052,False,Hulk,Zenit,79.275,33.728
+311,9.09701187204,6.405,-6.46,False,Aleksandr Kerzhakov,Zenit,98.595,43.656
+316,11.0419730574,11.025,0.612,False,Roman Shirokov,Zenit,93.975,34.0
+318,7.51826635602,7.035,2.652,False,Nicolas Lombaerts,Zenit,97.965,35.428
+320,15.85289677,-13.02,-9.044,False,Isco,Málaga,13.02,47.6
+341,17.3420562795,-7.77,15.504,False,Aleksandr Kerzhakov,Zenit,7.77,20.332
+344,12.7515006568,12.705,-1.088,False,Eliseu,Málaga,92.295,35.292
+362,14.3569368599,-14.07,-2.856,False,Roman Shirokov,Zenit,14.07,41.48
+365,12.8675312706,8.505,9.656,False,Nacho Monreal,Málaga,96.495,19.652
+368,23.000202173,21.63,7.82,True,Isco,Málaga,83.37,29.172
+375,9.38119480663,8.82,-3.196,False,Joaquín,Málaga,96.18,36.516
+378,27.3121924422,27.3,-0.816,False,Duda,Málaga,77.7,33.456
+382,11.5175018559,-11.025,-3.332,False,Kanu,Anderlecht,11.025,39.44
+386,28.8552633847,-24.465,-15.3,False,Sacha Kljestan,Anderlecht,24.465,45.832
+388,10.5631738128,9.135,-5.304,False,Luca Antonini,Milan,95.865,35.088
+389,8.66052706248,6.195,-6.052,False,Mathieu Flamini,Milan,98.805,43.18
+391,12.765553807,8.19,9.792,False,Kevin-Prince Boateng,Milan,96.81,25.092
+394,15.2588584435,-3.885,14.756,False,Guillaume Gillet,Anderlecht,3.885,22.644
+396,7.68784521176,6.09,4.692,False,Kevin-Prince Boateng,Milan,98.91,25.024
+403,13.8296031758,6.93,11.968,False,Kevin-Prince Boateng,Milan,98.07,19.108
+408,16.6292083095,15.435,6.188,False,Urby Emanuelson,Milan,89.565,27.608
+409,14.2326426218,-12.39,-7.004,False,Dieudonné Mbokani,Anderlecht,12.39,44.88
+410,30.3186485352,-30.135,3.332,False,Cheikhou Kouyaté,Anderlecht,30.135,33.252
+415,8.38199075399,2.835,-7.888,False,Lucas Biglia,Anderlecht,102.165,43.316
+417,9.88070245479,-9.555,-2.516,False,Kevin-Prince Boateng,Milan,9.555,37.74
+419,7.63192144876,-3.465,-6.8,False,Stephan El Shaarawy,Milan,3.465,37.876
+425,17.5111393119,-4.2,-17.0,False,Urby Emanuelson,Milan,4.2,46.92
+432,17.5111393119,-4.2,-17.0,False,Urby Emanuelson,Milan,4.2,46.92
+441,14.9826187297,-11.34,-9.792,False,Mathieu Flamini,Milan,11.34,39.372
+449,34.9413222417,23.52,25.84,False,Dieudonné Mbokani,Anderlecht,81.48,11.9
+454,25.3207286625,-24.57,6.12,False,Siem de Jong,Ajax,24.57,27.88
+461,15.9159095247,12.6,-9.724,False,Mario Götze,Dortmund,92.4,46.104
+466,25.7297648843,5.985,25.024,False,Robert Lewandowski,Dortmund,99.015,10.744
+468,22.6669853532,22.575,2.04,False,Sebastian Kehl,Dortmund,82.425,30.94
+469,26.4950344216,20.265,17.068,False,Sebastian Kehl,Dortmund,84.735,16.796
+474,16.8879550272,14.175,9.18,False,Ryan Babel,Ajax,90.825,25.228
+475,10.9171315372,9.345,5.644,False,Ryan Babel,Ajax,95.655,26.928
+480,15.5462521529,-15.33,-2.584,False,Robert Lewandowski,Dortmund,15.33,38.216
+487,15.3791819028,-11.97,9.656,False,Marco Reus,Dortmund,11.97,26.928
+491,25.9539250211,-23.1,11.832,False,İlkay Gündoğan ,Dortmund,23.1,23.732
+497,21.6416533795,-21.525,2.244,False,İlkay Gündoğan ,Dortmund,21.525,34.136
+498,11.4237773525,-11.025,2.992,False,Mats Hummels,Dortmund,11.025,34.0
+499,40.1152360581,-37.59,-14.008,False,Marco Reus,Dortmund,37.59,50.796
+507,8.24514426799,-8.19,0.952,False,Robert Lewandowski,Dortmund,8.19,37.264
+509,12.6647624928,-9.135,8.772,False,Sebastian Kehl,Dortmund,9.135,29.172
+512,11.461036646,-9.975,5.644,True,Robert Lewandowski,Dortmund,9.975,27.132
+516,32.5350983401,23.94,22.032,False,Cristiano Ronaldo,Real Madrid,81.06,16.116
+519,14.7613633855,10.605,10.268,False,Cristiano Ronaldo,Real Madrid,94.395,25.024
+524,21.5754030322,13.02,17.204,False,Cristiano Ronaldo,Real Madrid,91.98,17.612
+539,12.7995206551,10.185,-7.752,False,Álvaro Arbeloa,Real Madrid,94.815,44.132
+545,7.98260709292,7.98,0.204,False,Gonzalo Higuaín,Real Madrid,97.02,33.796
+546,10.337573458,9.345,-4.42,False,Sami Khedira,Real Madrid,95.655,40.596
+553,31.2510172794,26.775,16.116,False,Cristiano Ronaldo,Real Madrid,78.225,13.192
+557,25.211277655,21.315,13.464,False,Michael Essien,Real Madrid,83.685,23.528
+563,23.3243268713,18.9,13.668,False,Marcelo,Real Madrid,86.1,20.4
+566,3.65289268936,1.995,3.06,False,Gonzalo Higuaín,Real Madrid,103.005,29.784
+573,29.4653570146,23.1,-18.292,False,Ángel Di María,Real Madrid,81.9,48.28
+580,31.9911147821,28.455,14.62,False,Ángel Di María,Real Madrid,76.545,23.46
+593,25.0136731409,-24.99,-1.088,False,Ángel Di María,Real Madrid,24.99,31.688
+595,7.37259492987,6.93,2.516,False,Javi García,Man. City,98.07,35.428
+604,17.8700307778,-13.02,12.24,False,Ángel Di María,Real Madrid,13.02,18.904
+607,26.0465357581,-25.725,-4.08,False,Marcelo,Real Madrid,25.725,42.024
+609,28.2953919217,26.67,9.452,False,Carlos Tévez,Man. City,78.33,28.288
+613,25.7147211535,-19.53,-16.728,False,Marcelo,Real Madrid,19.53,52.156
+618,13.2357394958,13.02,2.38,True,Edin Džeko,Man. City,91.98,29.444
+620,5.1454493487,-5.145,0.068,False,Raphaël Varane,Real Madrid,5.145,34.068
+625,18.2944664858,8.4,16.252,False,Aleksandar Kolarov,Man. City,96.6,16.796
+628,9.49105057409,6.405,-7.004,False,Yaya Touré,Man. City,98.595,45.832
+634,23.7877636612,-20.79,-11.56,True,Marcelo,Real Madrid,20.79,48.62
+636,20.7575339576,-2.52,20.604,False,Karim Benzema,Real Madrid,2.52,14.824
+638,28.8812084408,-27.195,-9.724,False,Xabi Alonso,Real Madrid,27.195,42.5
+647,29.9374163882,-26.67,13.6,False,Luka Modrić,Real Madrid,26.67,23.324
+648,45.9800923879,34.44,-30.464,True,Aleksandar Kolarov,Man. City,70.56,61.064
+652,21.5263178691,-17.115,13.056,True,Karim Benzema,Real Madrid,17.115,24.276
+654,16.1265912083,-15.96,2.312,False,Cristiano Ronaldo,Real Madrid,15.96,29.784
+664,11.2621081952,-1.995,-11.084,False,Karim Benzema,Real Madrid,1.995,41.82
+668,22.1356716862,-14.805,-16.456,True,Cristiano Ronaldo,Real Madrid,14.805,50.184
+671,14.4012588339,-12.18,7.684,False,Kim Källström,Spartak Moskva,12.18,26.384
+677,11.1316981634,5.88,-9.452,True,Gary Hooper,Celtic,99.12,40.324
+678,26.9088161018,-25.62,8.228,False,Aiden McGeady,Spartak Moskva,25.62,24.616
+681,23.9415451465,23.94,-0.272,False,Kris Commons,Celtic,81.06,33.32
+689,11.87674303,-8.295,8.5,False,Emmanuel Emenike,Spartak Moskva,8.295,27.676
+690,33.7152881643,33.18,5.984,False,Charlie Mulgrew,Celtic,71.82,23.8
+692,13.5961512569,13.335,2.652,False,Giorgos Samaras,Celtic,91.665,31.076
+693,22.9719437793,-21.525,-8.024,False,Nicolas Pareja,Spartak Moskva,21.525,39.372
+697,6.0994835847,-6.09,0.34,True,Emmanuel Emenike,Spartak Moskva,6.09,31.076
+700,25.2664212147,23.205,-9.996,False,Ari,Spartak Moskva,81.795,41.616
+702,3.15,3.15,0.0,True,Emmanuel Emenike,Spartak Moskva,101.85,36.992
+704,11.3732602626,-11.235,1.768,False,Efe Ambrose,Celtic,11.235,34.612
+707,3.774,-3.57,-1.224,False,Dmitri Kombarov,Spartak Moskva,3.57,33.864
+710,30.4503037095,-30.45,0.136,False,Joe Ledley,Celtic,30.45,31.824
+712,11.028354773,-11.025,0.272,False,Efe Ambrose,Celtic,11.025,34.0
+717,21.9905989232,-11.235,18.904,False,Gary Hooper,Celtic,11.235,16.66
+722,11.7038766654,-11.445,2.448,True,Giorgos Samaras,Celtic,11.445,34.34
+724,9.74805026659,9.03,3.672,False,Ionuţ Rada,CFR Cluj,95.97,25.16
+738,13.2094966217,11.025,-7.276,True,Pantelis Kapetanos,CFR Cluj,93.975,39.44
+748,24.7737733097,19.95,-14.688,False,Matías Aguirregaray,CFR Cluj,85.05,53.244
+762,24.3336828491,-22.155,10.064,False,Wayne Rooney,Man. United,22.155,27.132
+764,11.4295767638,-8.925,7.14,False,Rio Ferdinand,Man. United,8.925,25.432
+772,23.3796856266,-22.89,-4.76,False,Anderson,Man. United,22.89,34.136
+782,14.3774435836,-12.81,-6.528,False,Robin van Persie,Man. United,12.81,35.156
+784,9.41933378748,-7.875,5.168,True,Robin van Persie,Man. United,7.875,30.532
+804,20.4947267608,-20.265,-3.06,False,Javier Hernández,Man. United,20.265,37.196
+818,16.0561392931,-8.085,-13.872,False,Robin van Persie,Man. United,8.085,45.22
+821,22.5360248491,-21.42,-7.004,False,Wayne Rooney,Man. United,21.42,46.512
+823,37.4370634666,33.285,-17.136,False,Gabriel Mureşan,CFR Cluj,71.715,45.696
+834,18.8622310716,-14.175,-12.444,False,Wayne Rooney,Man. United,14.175,41.004
+835,31.9727586548,-31.92,-1.836,False,Wayne Rooney,Man. United,31.92,36.176
+837,26.4813723398,26.355,2.584,False,Wayne Rooney,Man. United,78.645,38.76
+841,17.2711367316,17.01,-2.992,False,Anderson,Man. United,87.99,32.164
+859,12.3547369053,9.03,-8.432,True,Robin van Persie,Man. United,95.97,39.304
+864,17.0541519871,-10.29,13.6,False,Pantelis Kapetanos,CFR Cluj,10.29,26.656
+866,7.65780542976,-6.72,-3.672,False,Cadú,CFR Cluj,6.72,37.468
+867,33.5929680737,-29.4,16.252,False,Viorel Nicoară,CFR Cluj,29.4,25.908
+875,9.282,-3.57,8.568,False,Rafael Bastos,CFR Cluj,3.57,27.948
+877,14.8440157639,-7.77,-12.648,False,Custódio,Braga,7.77,42.432
+883,27.1716304995,23.94,12.852,False,Emre Çolak,Galatasaray,81.06,23.052
+890,7.98672404682,7.665,-2.244,False,Burak Yılmaz,Galatasaray,97.335,34.884
+893,17.2887408738,-13.545,-10.744,False,Ruben Amorim,Braga,13.545,43.928
+895,10.0999307423,-7.875,6.324,True,Rúben Micael,Braga,7.875,29.24
+911,7.98672404682,-7.665,2.244,False,Éder,Braga,7.665,31.824
+913,11.1552958275,-11.025,1.7,False,Paulo Vinícius,Braga,11.025,34.0
+917,13.8134369727,13.335,-3.604,False,Burak Yılmaz,Galatasaray,91.665,33.116
+919,7.02295386572,-5.565,4.284,False,Semih Kaya,Galatasaray,5.565,25.16
+927,31.9176158414,-25.515,19.176,False,Aydın Yılmaz,Galatasaray,25.515,19.516
+933,21.6831651057,-13.545,16.932,False,Burak Yılmaz,Galatasaray,13.545,19.176
+939,33.0527179064,-28.665,-16.456,False,Emre Çolak,Galatasaray,28.665,46.24
+952,8.467436507,-8.085,2.516,False,Burak Yılmaz,Galatasaray,8.085,30.736
+955,10.4331847487,-8.4,-6.188,False,Umut Bulut,Galatasaray,8.4,36.176
+961,29.199459995,25.62,14.008,False,Ruben Amorim,Braga,79.38,24.072
+963,5.9911775971,-5.985,0.272,False,Johan Elmander,Galatasaray,5.985,38.08
+967,18.1775431783,-9.03,15.776,False,Burak Yılmaz,Galatasaray,9.03,22.576
+973,8.02217433119,6.825,4.216,True,Alan,Braga,98.175,27.404
+981,5.12141542935,-1.26,4.964,False,Henrik Mkhitaryan,Shakhtar Donetsk,1.26,30.532
+987,29.8451097502,-29.82,1.224,False,Fernandinho,Shakhtar Donetsk,29.82,28.56
+992,15.6143945128,3.99,-15.096,False,Claudio Marchisio,Juventus,101.01,50.592
+995,5.67,-5.67,0.0,False,Willian,Shakhtar Donetsk,19.32,41.888
+998,12.5426074243,-11.235,5.576,True,Alex Teixeira,Shakhtar Donetsk,11.235,28.764
+1000,13.2551407386,13.23,-0.816,True,Leonardo Bonucci,Juventus,91.77,37.332
+1001,21.5974870992,21.525,1.768,False,Alessandro Matri,Juventus,83.475,31.892
+1009,26.638494721,26.355,3.876,False,Claudio Marchisio,Juventus,78.645,28.084
+1011,11.7636055697,10.5,5.304,False,Leonardo Bonucci,Juventus,94.5,25.772
+1013,22.8751988844,-21.21,8.568,False,Mirko Vučinić,Juventus,21.21,26.996
+1019,28.3827517341,-25.83,-11.764,False,Giorgio Chiellini,Juventus,25.83,43.52
+1021,20.1342699147,16.485,11.56,False,Willian,Shakhtar Donetsk,88.515,26.656
+1025,2.176,0.0,-2.176,False,Alessandro Matri,Juventus,0.0,36.652
+1029,22.7095204925,-19.425,-11.764,False,Sebastian Giovinco,Juventus,19.425,44.812
+1030,29.9327249845,29.925,0.68,False,Darijo Srna,Shakhtar Donetsk,75.075,34.884
+1031,19.2024061253,18.375,-5.576,False,Henrik Mkhitaryan,Shakhtar Donetsk,86.625,35.564
+1032,30.7789643101,-30.45,-4.488,False,Andrea Pirlo,Juventus,30.45,41.548
+1038,19.9872065332,19.845,-2.38,False,Willian,Shakhtar Donetsk,85.155,40.324
+1041,20.9847338797,13.44,-16.116,False,Henrik Mkhitaryan,Shakhtar Donetsk,91.56,45.832
+1043,15.4403914782,-15.435,0.408,False,Fabio Quagliarella,Juventus,15.435,33.116
+1046,30.5823035267,-30.555,1.292,False,Stephan Lichtsteiner,Juventus,30.555,28.152
+1050,10.1491935148,-8.295,-5.848,False,Oscar,Chelsea,8.295,44.2
+1053,20.0094602626,-18.27,8.16,False,Frank Lampard,Chelsea,18.27,27.268
+1054,27.5628403652,27.195,4.488,False,Joshua John,Nordsjælland,77.805,30.94
+1056,23.778470283,-16.695,16.932,False,Fernando Torres,Chelsea,16.695,18.836
+1060,16.0867165388,-12.495,10.132,True,Juan Mata,Chelsea,12.495,22.576
+1063,26.1131351048,23.415,11.56,False,Patrick Mtiliga,Nordsjælland,81.585,21.352
+1067,18.5486700601,-13.755,-12.444,False,Fernando Torres,Chelsea,13.755,43.656
+1069,27.7586357013,-19.74,-19.516,False,Joshua John,Nordsjælland,19.74,49.096
+1074,16.5654884926,-15.225,-6.528,False,Mikkel Beckmann,Nordsjælland,15.225,41.888
+1077,30.9131507453,30.555,-4.692,False,Gary Cahill,Chelsea,74.445,40.052
+1079,24.9599462339,-22.05,-11.696,False,Nicolai Stokholm,Nordsjælland,22.05,47.124
+1084,20.5829794005,-20.265,-3.604,False,Mikkel Beckmann,Nordsjælland,20.265,33.184
+1089,18.267277876,-15.015,-10.404,False,Joshua John,Nordsjælland,15.015,44.064
+1090,26.4557992886,23.73,11.696,True,David Luiz,Chelsea,81.27,23.936
+1095,12.6462365943,11.97,4.08,True,Juan Mata,Chelsea,93.03,31.008
+1107,19.6068361803,17.325,9.18,False,Frank Lampard,Chelsea,87.675,26.248
+1117,4.30654200026,4.2,-0.952,True,Ramires,Chelsea,100.8,35.156
+1120,23.8684022297,-23.625,-3.4,False,Franck Béria,LOSC,23.625,37.808
+1125,11.6625211683,4.2,10.88,False,Sofiane Feghouli,Valencia,100.8,27.2
+1127,27.5113446418,-27.51,0.272,False,Franck Béria,LOSC,27.51,34.204
+1128,23.3782950833,-22.995,4.216,False,Ryan Mendes,LOSC,22.995,34.0
+1129,13.6718872143,-12.39,5.78,False,Florent Balmont,LOSC,12.39,24.072
+1130,29.9232000962,-23.94,17.952,False,Dimitri Payet,LOSC,23.94,19.108
+1132,29.9232000962,-23.94,17.952,False,Dimitri Payet,LOSC,23.94,19.108
+1138,13.3002782302,12.075,-5.576,True,Jonas,Valencia,92.925,36.244
+1141,15.912,0.0,15.912,False,Dimitri Payet,LOSC,0.0,21.964
+1143,18.9276687418,16.59,9.112,False,Dimitri Payet,LOSC,88.41,22.508
+1146,20.9409388758,20.685,3.264,False,Dimitri Payet,LOSC,84.315,26.384
+1154,8.5312911684,-7.455,4.148,False,Roberto Soldado,Valencia,7.455,31.484
+1159,24.7738307292,23.415,8.092,False,Dimitri Payet,LOSC,81.585,25.024
+1160,30.0075178747,-26.355,-14.348,False,Andrés Guardado,Valencia,26.355,46.24
+1163,23.5800021204,-6.09,22.78,True,Jonas,Valencia,6.09,7.82
+1166,27.168336644,-26.25,7.004,False,Tino Costa,Valencia,26.25,31.144
+1178,13.244108124,12.6,-4.08,False,Edgar Olekhnovich,BATE,92.4,39.44
+1186,14.5841694998,-10.08,10.54,False,Mario Mandžukić,Bayern,10.08,29.172
+1187,31.2172416462,-31.08,2.924,False,Holger Badstuber,Bayern,31.08,33.592
+1194,7.30727917901,7.245,0.952,True,Aleksandr Pavlov,BATE,97.755,31.28
+1199,13.070710807,-7.035,11.016,False,Thomas Müller,Bayern,7.035,25.432
+1204,12.4532254858,-12.285,2.04,False,Mario Mandžukić,Bayern,12.285,30.94
+1209,27.8505964209,-26.565,8.364,False,Aleksandr Volodko,BATE,26.565,32.64
+1215,20.3545096723,-16.8,11.492,False,Edgar Olekhnovich,BATE,16.8,25.092
+1217,13.0249760077,-9.24,9.18,False,Maksim Bordachev,BATE,9.24,32.708
+1220,13.4395916605,-13.02,-3.332,False,Vitali Rodionov,BATE,13.02,41.752
+1222,17.6618763443,14.07,10.676,False,Toni Kroos,Bayern,90.93,22.304
+1225,14.5495704404,-9.66,10.88,False,Aleksandr Pavlov,BATE,9.66,26.724
+1230,33.682084793,-31.71,-11.356,False,Mikhail Sivakov,BATE,31.71,37.196
+1231,23.177189217,22.05,7.14,False,Xherdan Shaqiri,Bayern,82.95,32.776
+1237,11.1539770486,0.21,-11.152,False,Thomas Müller,Bayern,104.79,46.444
+1248,14.2735632902,-7.455,-12.172,True,Vitali Rodionov,BATE,7.455,43.112
+1249,14.7008016448,13.335,6.188,False,Franck Ribéry,Bayern,91.665,25.092
+1251,10.2124301222,10.185,0.748,False,Franck Ribéry,Bayern,94.815,30.26
+1255,16.0147409907,9.555,12.852,False,Claudio Pizarro,Bayern,95.445,25.84
+1258,21.4000131075,14.385,15.844,True,Franck Ribéry,Bayern,90.615,21.216
+1264,11.8474017827,-10.185,6.052,True,Renan Bressan,BATE,10.185,30.26
+1268,29.8469847723,-24.99,-16.32,False,Bruno César,Benfica,24.99,48.552
+1282,6.30146776553,6.3,0.136,True,Alexis Sánchez,Barcelona,98.7,35.564
+1285,15.5368864642,-3.675,-15.096,False,Lima,Benfica,3.675,46.444
+1288,17.1784330193,-15.225,-7.956,False,Nicolás Gaitán,Benfica,15.225,37.604
+1291,12.479973117,11.025,5.848,False,Lionel Messi,Barcelona,93.975,29.988
+1302,9.95204747778,8.505,-5.168,False,Alexis Sánchez,Barcelona,96.495,43.384
+1306,26.0700218834,-22.365,13.396,False,Eduardo Salvio,Benfica,22.365,21.896
+1308,6.28641400164,-5.565,-2.924,False,Eduardo Salvio,Benfica,5.565,29.648
+1310,20.7186797118,-11.235,17.408,False,Eduardo Salvio,Benfica,11.235,16.048
+1318,18.632,14.28,11.968,False,Pedro Rodríguez,Barcelona,90.72,19.72
+1324,8.17997561121,5.985,-5.576,False,Xavi Hernández,Barcelona,99.015,34.68
+1333,9.884,-6.3,-7.616,False,Alexis Sánchez,Barcelona,6.3,45.424
+1341,17.711723688,-10.29,-14.416,True,Cesc Fàbregas,Barcelona,10.29,45.832
+1342,27.7110505755,27.51,-3.332,False,Eduardo Salvio,Benfica,77.49,33.864
+1344,7.58456069921,7.245,2.244,False,Jardel,Benfica,97.755,32.64
+1346,12.496195261,3.36,12.036,False,Nemanja Matić,Benfica,101.64,26.86
+1354,14.0078933463,-11.97,-7.276,False,Pedro Rodríguez,Barcelona,11.97,41.752
+1357,24.6379000931,22.365,10.336,False,Nemanja Matić,Benfica,82.635,21.76
+1375,15.2918216377,-15.225,-1.428,False,Lionel Messi,Barcelona,15.225,37.536
+1381,11.3555724206,-11.025,2.72,False,Diniyar Bilyaletdinov,Spartak Moskva,11.025,34.0
+1384,10.6204188241,-9.24,-5.236,True,Rafael Carioca,Spartak Moskva,9.24,42.364
+1386,26.0001185382,-25.41,5.508,False,Kim Källström,Spartak Moskva,25.41,33.864
+1387,30.0938336707,29.715,4.76,False,Melgarejo,Benfica,75.285,22.236
+1388,20.1269733442,16.8,11.084,False,Nemanja Matić,Benfica,88.2,20.4
+1391,6.23999431089,6.195,-0.748,True,Lima,Benfica,98.805,36.72
+1395,18.3535590282,-11.445,-14.348,False,José Manuel Jurado,Spartak Moskva,11.445,42.228
+1397,12.5872036609,-7.56,-10.064,False,Dmitri Kombarov,Spartak Moskva,7.56,41.752
+1399,15.2694521513,-14.595,4.488,False,Nicolas Pareja,Spartak Moskva,14.595,27.268
+1402,15.3297378973,-13.02,8.092,False,Nicolas Pareja,Spartak Moskva,13.02,26.588
+1426,4.92284470606,-4.62,-1.7,False,Jardel,Benfica,4.62,36.72
+1427,25.2672441117,19.845,-15.64,False,Eduardo Salvio,Benfica,85.155,51.476
+1428,12.2748038274,10.395,6.528,False,Ari,Spartak Moskva,94.605,25.976
+1432,19.0562437275,15.645,-10.88,False,José Manuel Jurado,Spartak Moskva,89.355,43.18
+1437,22.1639076203,20.265,8.976,False,Dmitri Kombarov,Spartak Moskva,84.735,19.108
+1463,32.025,32.025,0.0,False,Evgeni Makeev,Spartak Moskva,72.975,28.084
+1465,11.8998118052,-10.815,4.964,False,Eduardo Salvio,Benfica,10.815,24.616
+1468,23.7185750204,-22.575,7.276,False,Óscar Cardozo,Benfica,22.575,21.692
+1470,11.0026128261,-7.455,-8.092,False,Lima,Benfica,7.455,40.528
+1472,12.4381481339,-8.085,9.452,False,Nemanja Matić,Benfica,8.085,31.144
+1476,25.4782533938,-24.99,-4.964,False,Melgarejo,Benfica,24.99,40.392
+1478,11.025838789,-11.025,-0.136,False,Óscar Cardozo,Benfica,11.025,34.0
+1481,23.6142766986,-23.52,2.108,False,Óscar Cardozo,Benfica,23.52,31.96
+1510,16.0035241119,7.98,-13.872,False,Alexis Sánchez,Barcelona,97.02,43.792
+1514,5.12000087891,4.725,1.972,False,Marc Bartra,Barcelona,100.275,31.348
+1516,10.810024283,-9.135,5.78,True,Giorgos Samaras,Celtic,9.135,31.484
+1517,28.0115837646,25.515,-11.56,False,Lionel Messi,Barcelona,79.485,41.616
+1520,8.79527151372,8.295,2.924,False,Marc Bartra,Barcelona,96.705,35.156
+1523,19.2260972639,18.48,-5.304,False,Xavi Hernández,Barcelona,86.52,41.072
+1527,23.769610935,22.47,-7.752,False,Adriano,Barcelona,82.53,45.152
+1534,15.4778107302,12.705,8.84,False,Xavi Hernández,Barcelona,92.295,29.308
+1535,25.8102457175,25.62,-3.128,False,Lionel Messi,Barcelona,79.38,40.46
+1545,10.040548242,9.345,-3.672,True,Andrés Iniesta,Barcelona,95.655,41.004
+1561,28.5335329043,19.95,20.4,False,Lionel Messi,Barcelona,85.05,18.496
+1562,32.1129646716,30.45,10.2,False,Emilio Izaguirre,Celtic,74.55,20.536
+1564,19.0533827968,-17.85,6.664,False,Lionel Messi,Barcelona,17.85,24.072
+1567,8.56775093009,8.19,2.516,False,Victor Wanyama,Celtic,96.81,27.404
+1569,31.8816831582,-30.765,8.364,False,Adriano,Barcelona,30.765,24.412
+1576,21.67681621,-21.315,-3.944,False,Lionel Messi,Barcelona,21.315,24.072
+1580,22.1146246859,-21.735,-4.08,False,Lionel Messi,Barcelona,21.735,35.768
+1591,22.2736942603,-19.32,-11.084,False,Andrés Iniesta,Barcelona,19.32,42.908
+1597,4.26123409355,-3.99,1.496,False,Lionel Messi,Barcelona,3.99,32.572
+1604,14.506211118,-7.455,-12.444,False,Alexis Sánchez,Barcelona,7.455,43.928
+1619,8.32616142049,-7.77,-2.992,False,Lionel Messi,Barcelona,7.77,38.216
+1623,5.41681465439,-5.355,-0.816,False,Alex Song,Barcelona,5.355,33.32
+1642,25.2265006689,-25.2,1.156,False,Xavi Hernández,Barcelona,25.2,36.924
+1643,18.187517945,-17.535,4.828,False,Adriano,Barcelona,17.535,26.316
+1647,10.8012823313,-4.41,-9.86,True,Jordi Alba,Barcelona,4.41,40.324
+1650,34.3583248136,-32.13,12.172,False,Nicolas Godemèche,CFR Cluj,32.13,24.48
+1652,17.9125798254,-17.85,1.496,False,Rafael Bastos,CFR Cluj,17.85,35.36
+1653,15.7955183517,-14.7,5.78,False,Rafael Bastos,CFR Cluj,14.7,32.98
+1657,28.8242731738,28.77,-1.768,False,Umut Bulut,Galatasaray,76.23,30.26
+1658,14.4772804421,14.385,-1.632,False,Felipe Melo,Galatasaray,90.615,41.82
+1663,24.5647842449,22.785,-9.18,False,Nordin Amrabat,Galatasaray,82.215,39.984
+1664,29.891510651,25.515,15.572,False,Hamit Altıntop,Galatasaray,79.485,21.216
+1665,8.42747886381,-8.4,0.68,False,Dany Nounkeu,Galatasaray,8.4,30.26
+1666,21.6655630898,18.06,-11.968,False,Hamit Altıntop,Galatasaray,86.94,43.588
+1669,12.1912363606,11.97,-2.312,False,Johan Elmander,Galatasaray,93.03,30.396
+1670,16.8168149184,16.38,3.808,False,Nordin Amrabat,Galatasaray,88.62,21.284
+1672,27.9237215464,19.425,20.06,False,Nordin Amrabat,Galatasaray,85.575,17.748
+1673,11.3555724206,11.025,-2.72,False,Felipe Melo,Galatasaray,93.975,34.0
+1675,25.3701005122,-24.78,5.44,False,Selçuk İnan,Galatasaray,24.78,30.804
+1678,27.9577239596,-25.725,-10.948,False,Albert Riera,Galatasaray,25.725,40.868
+1682,9.75526524498,-9.66,-1.36,False,Umut Bulut,Galatasaray,9.66,30.736
+1686,17.3648293974,-11.97,12.58,False,Burak Yılmaz,Galatasaray,11.97,27.676
+1688,12.8593452788,-11.235,-6.256,False,Umut Bulut,Galatasaray,11.235,34.952
+1691,33.7165905898,-33.705,-0.884,False,Emmanuel Eboué,Galatasaray,33.705,29.444
+1692,24.7439890883,-17.85,17.136,False,Sabri Sarıoğlu,Galatasaray,17.85,21.216
+1697,14.5290269805,-4.095,-13.94,False,Felipe Melo,Galatasaray,4.095,43.112
+1704,25.3429285009,-24.675,-5.78,False,Selçuk İnan,Galatasaray,24.675,36.448
+1707,6.96328227203,-6.93,-0.68,True,Burak Yılmaz,Galatasaray,6.93,31.484
+1708,20.375560753,-20.37,-0.476,False,Selçuk İnan,Galatasaray,20.37,35.632
+1709,54.9221146807,54.915,-0.884,False,Luís Alberto,CFR Cluj,50.085,39.236
+1713,23.1247729502,-15.75,-16.932,False,Felipe Melo,Galatasaray,15.75,44.472
+1715,39.3808713083,-39.375,0.68,False,Dany Nounkeu,Galatasaray,39.375,44.2
+1717,14.5942827504,-4.095,14.008,False,Burak Yılmaz,Galatasaray,4.095,24.14
+1721,8.20737284397,-7.875,-2.312,True,Alan,Braga,7.875,33.864
+1724,9.49343357274,9.135,-2.584,False,Jonny Evans,Man. United,95.865,38.76
+1726,25.2067015097,-18.165,17.476,False,Rúben Micael,Braga,18.165,21.488
+1738,7.08216640584,7.035,-0.816,False,Robin van Persie,Man. United,97.965,38.08
+1740,9.95410674044,-7.455,-6.596,True,Alan,Braga,7.455,37.468
+1747,4.35618365086,4.2,1.156,True,Javier Hernández,Man. United,100.8,35.7
+1748,13.3015497217,12.285,-5.1,False,Robin van Persie,Man. United,92.715,43.588
+1749,22.8422808844,-20.37,10.336,False,Alan,Braga,20.37,28.084
+1762,7.56583167933,6.615,3.672,False,Javier Hernández,Man. United,98.385,27.676
+1775,34.825674796,-30.765,16.32,False,Hugo Viana,Braga,30.765,22.1
+1776,27.4690276675,-7.875,26.316,False,Robin van Persie,Man. United,7.875,10.54
+1778,14.7429210471,-5.355,-13.736,False,Nani,Man. United,5.355,42.772
+1780,5.58103359603,-5.46,1.156,True,Jonny Evans,Man. United,5.46,35.088
+1781,24.2934331868,-17.22,17.136,False,Nani,Man. United,17.22,19.924
+1790,6.991878789,-3.255,-6.188,True,Javier Hernández,Man. United,3.255,38.76
+1795,33.0039227365,32.97,-1.496,False,Hugo Viana,Braga,72.03,30.872
+1797,14.4906382192,14.49,0.136,False,Paulo Vinícius,Braga,90.51,34.136
+1809,14.8489935349,-8.505,12.172,False,Robin van Persie,Man. United,8.505,22.984
+1812,26.6691879141,23.1,13.328,False,Zé Luis,Braga,81.9,26.112
+1817,10.6968799657,-8.085,-7.004,False,Paolo De Ceglie,Juventus,8.085,45.764
+1820,26.2377442819,-21.315,15.3,False,Arturo Vidal,Juventus,21.315,19.924
+1823,25.9986469071,-19.845,16.796,False,Andrea Pirlo,Juventus,19.845,20.944
+1825,13.9027163173,-3.465,-13.464,False,Alessandro Matri,Juventus,3.465,42.908
+1826,28.8357030259,27.195,9.588,False,Kasper Lorentzen,Nordsjælland,77.805,23.256
+1828,19.0097764321,18.9,-2.04,False,Mikkel Beckmann,Nordsjælland,86.1,34.884
+1830,6.32965591482,-6.3,0.612,False,Leonardo Bonucci,Juventus,6.3,28.696
+1835,15.230647524,-6.72,-13.668,False,Sebastian Giovinco,Juventus,6.72,44.676
+1837,9.09795367102,7.875,4.556,False,Ivan Runje,Nordsjælland,97.125,34.612
+1848,14.4109992714,-9.45,10.88,False,Arturo Vidal,Juventus,9.45,27.064
+1852,16.6656005292,-13.335,-9.996,False,Sebastian Giovinco,Juventus,13.335,42.092
+1858,18.1213447625,-17.22,5.644,False,Claudio Marchisio,Juventus,17.22,33.252
+1860,4.93636668006,0.63,4.896,False,Alessandro Matri,Juventus,104.37,27.064
+1864,15.6994170592,10.08,12.036,False,Sebastian Giovinco,Juventus,94.92,19.584
+1868,15.6994170592,10.08,12.036,False,Sebastian Giovinco,Juventus,94.92,19.584
+1869,22.7491200709,-22.26,4.692,True,Mikkel Beckmann,Nordsjælland,22.26,32.64
+1874,9.91620537302,9.555,-2.652,False,Sebastian Giovinco,Juventus,95.445,38.284
+1878,11.0720831373,-11.025,-1.02,False,Joshua John,Nordsjælland,11.025,34.0
+1884,12.4381481339,8.085,9.452,False,Alessandro Matri,Juventus,96.915,23.936
+1886,23.3311359346,21.42,-9.248,False,Arturo Vidal,Juventus,83.58,38.284
+1887,22.792069147,22.26,4.896,False,Andrea Pirlo,Juventus,82.74,31.824
+1891,20.1738718148,20.16,0.748,False,Giorgio Chiellini,Juventus,84.84,32.3
+1892,24.7444549142,22.575,-10.132,False,Mauricio Isla,Juventus,82.425,44.336
+1896,19.5434684997,-19.005,-4.556,False,Søren Christensen,Nordsjælland,19.005,33.66
+1901,8.82934476618,6.615,-5.848,False,Arturo Vidal,Juventus,98.385,36.788
+1905,9.15604477927,6.93,5.984,True,Mirko Vučinić,Juventus,98.07,31.008
+1910,6.06432321038,2.94,5.304,False,Nicklas Bendtner,Juventus,102.06,33.592
+1913,13.0867603325,12.6,3.536,False,Mirko Vučinić,Juventus,92.4,25.568
+1929,13.9575556958,-4.935,13.056,False,Roberto Soldado,Valencia,4.935,21.692
+1932,14.7805981273,-13.545,-5.916,False,Andrés Guardado,Valencia,13.545,40.324
+1939,21.1432713647,17.43,-11.968,False,Dmitri Likhtarovich,BATE,87.57,43.112
+1951,6.82635488383,6.825,0.136,False,Vitali Rodionov,BATE,98.175,32.64
+1958,25.7240043733,25.305,-4.624,False,Vitali Rodionov,BATE,79.695,34.0
+1963,10.4749839618,10.395,1.292,False,Marko Simić,BATE,94.605,28.764
+1972,14.3125260174,13.545,-4.624,False,Aleksandr Volodko,BATE,91.455,36.448
+1973,11.199973616,-11.025,1.972,True,Roberto Soldado,Valencia,11.025,34.0
+1990,15.5698562935,-5.355,-14.62,False,Vitali Rodionov,BATE,5.355,47.124
+1996,13.39977914,11.025,-7.616,True,Roberto Soldado,Valencia,93.975,44.472
+1999,17.8090511819,17.64,2.448,False,Tino Costa,Valencia,87.36,28.764
+2006,21.5267184912,21.525,0.272,False,Fernando Gago,Valencia,83.475,29.172
+2009,14.9380245013,12.6,8.024,False,Andrés Guardado,Valencia,92.4,30.736
+2012,22.6872260314,20.265,10.2,False,Sofiane Feghouli,Valencia,84.735,29.784
+2014,25.4975961416,25.305,-3.128,False,Roberto Soldado,Valencia,79.695,34.408
+2018,15.0987582271,14.91,2.38,False,Andrés Guardado,Valencia,90.09,29.444
+2022,8.80053413152,8.715,-1.224,True,Roberto Soldado,Valencia,96.285,32.164
+2026,8.86002398417,7.245,-5.1,False,Roberto Soldado,Valencia,97.755,44.88
+2036,13.7387033231,-12.495,5.712,False,Renan Bressan,BATE,12.495,32.164
+2040,27.7240865675,27.72,0.476,False,Fernando Gago,Valencia,77.28,29.172
+2053,12.8874444713,9.975,-8.16,False,Túlio De Melo,LOSC,95.025,37.876
+2054,11.3394765752,-11.025,2.652,True,Thomas Müller,Bayern,11.025,34.0
+2058,27.1758120578,23.205,14.144,False,Marvin Martin,LOSC,81.795,23.8
+2060,12.3249821095,11.34,4.828,False,Javi Martínez,Bayern,93.66,24.752
+2062,30.6465521062,-22.05,21.284,False,Nolan Roux,LOSC,22.05,16.592
+2065,27.087332113,26.355,-6.256,False,Xherdan Shaqiri,Bayern,78.645,40.324
+2067,26.1961511677,26.04,2.856,False,Toni Kroos,Bayern,78.96,31.144
+2068,28.3027774079,-27.405,7.072,False,Florent Balmont,LOSC,27.405,27.064
+2071,29.1995822573,-29.19,-0.748,False,Dimitri Payet,LOSC,29.19,37.196
+2078,3.61124922984,3.255,-1.564,False,Thomas Müller,Bayern,101.745,40.46
+2079,33.5452816503,33.495,1.836,False,David Alaba,Bayern,71.505,36.38
+2083,27.8599331657,-25.41,-11.424,False,Lucas Digne,LOSC,25.41,47.26
+2085,24.1269857421,-23.625,-4.896,False,João Moutinho,Porto,23.625,41.004
+2089,14.0073184086,-13.965,-1.088,False,Silvestre Varela,Porto,13.965,31.552
+2092,27.2844984561,25.62,9.384,False,Taye Taiwo,Dynamo Kyiv,79.38,30.328
+2100,24.0475106612,-23.625,-4.488,False,Danilo,Porto,23.625,39.644
+2106,17.1924253379,11.025,13.192,False,Silvestre Varela,Porto,93.975,25.296
+2111,25.3163054374,-14.805,20.536,False,Andriy Yarmolenko,Dynamo Kyiv,14.805,15.232
+2116,14.7067250263,9.345,-11.356,False,James Rodríguez,Porto,95.655,45.832
+2118,28.3828579428,-25.095,-13.26,False,Artem Milevskiy,Dynamo Kyiv,25.095,42.84
+2120,33.9362030286,-33.81,2.924,False,Ognjen Vukojević,Dynamo Kyiv,33.81,33.252
+2121,26.3215685133,22.155,14.212,False,João Moutinho,Porto,82.845,24.344
+2123,18.632,-14.28,11.968,False,Andriy Yarmolenko,Dynamo Kyiv,14.28,24.548
+2126,11.3889139517,-11.025,2.856,False,Ideye Brown,Dynamo Kyiv,11.025,35.564
+2128,10.6429937518,-9.45,4.896,False,Andriy Yarmolenko,Dynamo Kyiv,9.45,31.28
+2133,33.9140912306,32.76,8.772,False,Lucho González,Porto,72.24,29.036
+2135,30.0337722572,-30.03,-0.476,False,Miguel Veloso,Dynamo Kyiv,30.03,34.816
+2143,18.3217629064,9.87,-15.436,False,Lucho González,Porto,95.13,42.432
+2145,18.2200748901,-12.915,-12.852,False,Alex,PSG,12.915,41.412
+2147,24.5930009556,20.58,-13.464,False,Marcelo Brozović,Dinamo Zagreb,84.42,46.172
+2151,22.7266539552,14.28,17.68,False,Josip Pivarić,Dinamo Zagreb,90.72,20.536
+2154,9.78579051482,-9.66,1.564,True,Alex,PSG,9.66,29.444
+2155,17.4536318284,-13.86,10.608,False,Adrien Rabiot,PSG,13.86,28.22
+2167,16.5989167116,16.59,0.544,False,Sammir,Dinamo Zagreb,88.41,40.256
+2173,18.3509717454,-1.47,-18.292,False,Ezequiel Lavezzi,PSG,1.47,48.144
+2175,29.6967708851,-24.675,16.524,False,Mohamed Sissoko,PSG,24.675,22.44
+2178,7.2029463416,-3.57,6.256,False,Thiago Silva,PSG,3.57,29.648
+2183,26.6713869906,26.67,-0.272,False,Blaise Matuidi,PSG,78.33,29.104
+2184,19.1157590485,18.69,4.012,False,Zlatan Ibrahimović,PSG,86.31,35.088
+2191,11.3619639588,-9.975,5.44,False,Ante Rukavina,Dinamo Zagreb,9.975,33.048
+2196,13.575816771,10.185,-8.976,True,Blaise Matuidi,PSG,94.815,42.16
+2202,12.2751496936,11.97,2.72,True,Jérémy Ménez,PSG,93.03,29.444
+2204,25.1759175602,22.365,11.56,False,Zlatan Ibrahimović,PSG,82.635,20.944
+2209,8.772,0.0,8.772,False,Jérémy Ménez,PSG,105.0,22.508
+2210,23.5356458378,23.415,2.38,False,Zlatan Ibrahimović,PSG,81.585,32.844
+2215,12.9793383884,12.075,-4.76,True,Guillaume Hoarau,PSG,92.925,38.284
+2219,22.6052609806,12.6,-18.768,False,Zlatan Ibrahimović,PSG,92.4,47.328
+2223,14.016436637,-12.18,6.936,False,Christian Fuchs,Schalke,12.18,22.78
+2225,20.5723857634,-6.3,-19.584,False,Ibrahim Afellay,Schalke,6.3,50.728
+2227,20.5723857634,-6.3,-19.584,False,Ibrahim Afellay,Schalke,6.3,50.728
+2229,8.73694231411,-7.455,4.556,False,Benedikt Höwedes,Schalke,7.455,27.404
+2231,13.1786062996,8.82,9.792,False,Olivier Giroud,Arsenal,96.18,26.452
+2234,14.7668009061,13.755,-5.372,False,Theo Walcott,Arsenal,91.245,40.12
+2236,7.91460731812,7.665,-1.972,True,Theo Walcott,Arsenal,97.335,34.884
+2239,28.1326608944,-27.615,-5.372,False,Christian Fuchs,Schalke,27.615,43.52
+2250,6.53268979824,6.51,0.544,True,Olivier Giroud,Arsenal,98.49,30.532
+2253,10.6029922192,-8.61,6.188,False,Joel Matip,Schalke,8.61,26.656
+2254,27.0725913241,-26.985,-2.176,False,Ibrahim Afellay,Schalke,26.985,40.188
+2259,13.4451181103,-11.865,6.324,False,Jefferson Farfán,Schalke,11.865,31.688
+2261,9.360321362,9.24,-1.496,False,Olivier Giroud,Arsenal,95.76,34.476
+2264,15.7338585223,-15.12,-4.352,True,Klaas-Jan Huntelaar,Schalke,15.12,41.412
+2271,9.07091401128,-8.715,2.516,False,Olivier Giroud,Arsenal,8.715,29.784
+2280,11.0384129747,11.025,0.544,False,Klaas-Jan Huntelaar,Schalke,93.975,34.0
+2282,12.6966962632,12.6,-1.564,False,Roman Neustädter,Schalke,92.4,39.644
+2289,25.1746715768,24.885,3.808,False,Lewis Holtby,Schalke,80.115,28.22
+2297,22.9234513981,22.68,3.332,False,Ibrahim Afellay,Schalke,82.32,29.648
+2311,12.9226715891,7.665,-10.404,True,Jefferson Farfán,Schalke,97.335,46.512
+2319,22.6796296487,-22.575,2.176,False,Santi Cazorla,Arsenal,22.575,35.972
+2328,24.0241478725,22.785,-7.616,False,Jermaine Jones,Schalke,82.215,42.092
+2332,23.8469520904,23.31,-5.032,False,Jermaine Jones,Schalke,81.69,37.332
+2335,15.4308931692,-12.6,-8.908,False,Theo Walcott,Arsenal,12.6,42.704
+2336,9.87374721167,9.87,-0.272,True,Paulo Machado,Olympiacos,95.13,37.196
+2339,17.0063429343,16.59,-3.74,False,Kostas Mitroglou,Olympiacos,88.41,35.02
+2346,18.6077951676,-12.915,13.396,False,Souleymane Camara,Montpellier,12.915,24.888
+2351,20.3076324568,-19.32,6.256,False,Souleymane Camara,Montpellier,19.32,32.572
+2353,17.3670810443,14.7,9.248,False,Dimitris Siovas,Olympiacos,90.3,27.812
+2355,14.562747852,12.285,7.82,False,Kostas Mitroglou,Olympiacos,92.715,21.42
+2357,18.4285961484,17.43,5.984,False,Dimitris Siovas,Olympiacos,87.57,23.324
+2360,29.2499259657,19.845,21.488,False,Anthony Mounier,Montpellier,85.155,18.224
+2370,14.7585636496,13.335,6.324,False,Jonathan Tinhan,Montpellier,91.665,24.48
+2373,16.8137562728,16.8,-0.68,False,Joris Marveaux,Montpellier,88.2,34.34
+2374,16.3860307579,16.17,-2.652,True,Younes Belhanda,Montpellier,88.83,34.0
+2377,28.4241376298,-15.54,23.8,False,Paulo Machado,Olympiacos,15.54,15.028
+2378,31.496676412,-31.185,-4.42,False,Djamel Abdoun,Olympiacos,31.185,41.752
+2380,16.4961388209,-16.17,-3.264,True,Leandro Greco,Olympiacos,16.17,34.0
+2383,12.931637522,-12.495,3.332,True,Kostas Mitroglou,Olympiacos,12.495,30.464
+2386,25.2976963576,25.095,3.196,False,Jamel Saihi,Montpellier,79.905,35.02
+2387,11.7759137225,-11.76,0.612,False,Nicolas Lombaerts,Zenit,11.76,31.892
+2390,13.5095971813,-13.02,-3.604,False,Sergei Semak,Zenit,13.02,41.752
+2394,9.85461358958,9.345,3.128,False,Guillaume Gillet,Anderlecht,95.655,30.192
+2400,13.5103356361,9.975,-9.112,True,Dieudonné Mbokani,Anderlecht,95.025,41.004
+2405,26.6841571724,23.31,12.988,False,Milan Jovanović,Anderlecht,81.69,17.612
+2409,14.3952825954,14.385,-0.544,False,Axel Witsel,Zenit,90.615,33.728
+2417,28.3782029206,-27.825,-5.576,False,Kanu,Anderlecht,27.825,35.156
+2423,26.9479070801,-26.04,-6.936,False,Milan Jovanović,Anderlecht,26.04,36.516
+2424,37.3279426168,-20.37,31.28,False,Eliseu,Málaga,20.37,6.46
+2426,17.764654908,-12.81,-12.308,False,Eliseu,Málaga,12.81,45.56
+2427,22.2510251674,19.845,-10.064,False,Bojan Krkić,Milan,85.155,47.192
+2431,21.6347082486,21.525,-2.176,False,Riccardo Montolivo,Milan,83.475,35.7
+2432,22.8422808844,20.37,-10.336,False,Urby Emanuelson,Milan,84.63,41.072
+2442,9.78528328665,-8.925,4.012,True,Eliseu,Málaga,8.925,27.948
+2452,26.3310683604,19.635,17.544,False,Urby Emanuelson,Milan,85.365,15.028
+2455,22.5143509789,-19.32,11.56,False,Urby Emanuelson,Milan,19.32,21.964
+2462,9.47278734059,-8.19,-4.76,False,Stephan El Shaarawy,Milan,8.19,44.472
+2467,22.7624185007,-19.32,-12.036,False,Kévin Constant,Milan,19.32,41.616
+2473,19.673113658,-19.635,-1.224,False,Urby Emanuelson,Milan,19.635,30.532
+2476,32.5764915391,-32.445,2.924,False,Kevin-Prince Boateng,Milan,32.445,36.244
+2477,34.0981228809,-29.4,17.272,False,Urby Emanuelson,Milan,29.4,19.584
+2479,17.0064348116,15.435,7.14,False,Roque Santa Cruz,Málaga,89.565,23.8
+2482,4.63423877244,-1.155,4.488,True,Pato,Milan,1.155,28.152
+2489,15.9243497826,-8.61,-13.396,False,Kevin-Prince Boateng,Milan,8.61,46.58
+2497,27.3896278909,-24.57,12.104,False,Christian Eriksen,Ajax,24.57,25.16
+2500,21.7092290282,18.585,11.22,False,Sergio Agüero,Man. City,86.415,25.84
+2506,10.2290293283,7.455,-7.004,False,Pablo Zabaleta,Man. City,97.545,44.608
+2508,8.95173731741,-7.665,4.624,False,Niklas Moisander,Ajax,7.665,33.32
+2509,4.08540083713,-0.21,4.08,True,Siem de Jong,Ajax,0.21,30.6
+2511,12.5756641574,8.295,9.452,False,Matija Nastasić,Man. City,96.705,22.508
+2513,9.53365092711,-3.57,-8.84,True,Siem de Jong,Ajax,3.57,40.324
+2515,7.77178589515,5.04,5.916,True,Yaya Touré,Man. City,99.96,25.364
+2521,6.36784924445,2.52,-5.848,False,Pablo Zabaleta,Man. City,102.48,40.528
+2525,28.6650806557,-28.665,0.068,False,Siem de Jong,Ajax,28.665,29.376
+2531,22.6191502051,-17.43,14.416,False,Derk Boerrigter,Ajax,17.43,17.34
+2534,12.425742674,9.765,7.684,False,Yaya Touré,Man. City,95.235,24.276
+2536,13.2634041256,-12.705,3.808,False,Matija Nastasić,Man. City,12.705,28.968
+2537,27.9711880513,-27.825,2.856,False,Yaya Touré,Man. City,27.825,33.864
+2541,25.3109581209,24.885,4.624,False,Siem de Jong,Ajax,80.115,26.86
+2546,25.3109581209,24.885,4.624,False,Siem de Jong,Ajax,80.115,26.86
+2553,22.0792338862,16.485,14.688,False,Christian Eriksen,Ajax,88.515,23.732
+2556,24.7647411454,-22.89,9.452,False,Gareth Barry,Man. City,22.89,30.328
+2557,25.1451489556,24.15,-7.004,False,Siem de Jong,Ajax,80.85,43.384
+2562,15.3300416177,-14.28,5.576,True,Sergio Agüero,Man. City,14.28,25.976
+2564,7.29275284101,-6.09,-4.012,False,Mario Balotelli,Man. City,6.09,40.528
+2568,27.9334874479,-26.565,-8.636,False,Edin Džeko,Man. City,26.565,38.012
+2570,13.7152862165,8.61,-10.676,False,Siem de Jong,Ajax,96.39,46.92
+2572,12.9545547588,-12.075,-4.692,False,Vincent Kompany,Man. City,12.075,41.072
+2577,19.9068801172,19.11,5.576,False,Christian Eriksen,Ajax,85.89,25.84
+2579,24.5713413553,22.26,10.404,False,Viktor Fischer,Ajax,82.74,28.492
+2582,24.6947857047,21.525,-12.104,False,Luka Modrić,Real Madrid,83.475,50.252
+2586,18.4591103794,-4.83,-17.816,False,Marcel Schmelzer,Dortmund,4.83,48.552
+2588,14.5474865183,-14.49,-1.292,False,Robert Lewandowski,Dortmund,14.49,34.204
+2592,20.796,-13.86,-15.504,False,Kevin Grosskreutz,Dortmund,13.86,47.464
+2601,9.24625329525,9.24,-0.34,False,Cristiano Ronaldo,Real Madrid,95.76,29.988
+2603,23.288534604,20.37,-11.288,False,Ángel Di María,Real Madrid,84.63,49.368
+2625,24.0872540776,-10.185,21.828,True,Marco Reus,Dortmund,10.185,13.464
+2628,10.6299212133,7.875,-7.14,True,Pepe,Real Madrid,97.125,43.792
+2630,11.2752618151,11.235,-0.952,False,Sergio Ramos,Real Madrid,93.765,30.736
+2634,24.0335091279,-23.205,6.256,False,İlkay Gündoğan ,Dortmund,23.205,28.22
+2641,12.5191060384,-11.34,-5.304,False,Kevin Grosskreutz,Dortmund,11.34,34.884
+2647,10.6804838842,-9.66,4.556,False,Álvaro Arbeloa,Real Madrid,9.66,28.696
+2655,19.6112867757,-17.955,7.888,False,José Callejón,Real Madrid,17.955,29.988
+2657,25.2486254873,-23.625,8.908,False,Cristiano Ronaldo,Real Madrid,23.625,29.104
+2666,18.0864247711,-13.125,12.444,False,José Callejón,Real Madrid,13.125,24.276
+2672,29.370515845,-28.455,7.276,False,Sergio Ramos,Real Madrid,28.455,20.672
+2687,28.2015548508,-24.78,-13.464,False,Ángel Di María,Real Madrid,24.78,44.336
+2692,4.98267759342,-4.83,-1.224,False,Cristiano Ronaldo,Real Madrid,4.83,36.72
+2701,17.806289928,-3.045,-17.544,False,Ángel Di María,Real Madrid,3.045,47.192
+2702,36.2958394448,-26.355,24.956,True,Mesut Özil,Real Madrid,26.355,12.444
+2707,13.7791828858,13.755,-0.816,False,Edgar Olekhnovich,BATE,91.245,38.012
+2711,18.3946014091,9.345,-15.844,False,Vitali Rodionov,BATE,95.655,47.192
+2713,23.674624073,-20.265,-12.24,False,Gianni Bruno,LOSC,20.265,44.064
+2716,7.78221208912,-5.565,-5.44,True,Gianni Bruno,LOSC,5.565,36.924
+2720,33.525718128,28.14,-18.224,False,Aleksandr Volodko,BATE,76.86,51.952
+2725,11.5351029904,-7.245,-8.976,False,Gianni Bruno,LOSC,7.245,38.284
+2729,11.6864879669,11.025,3.876,False,Renan Bressan,BATE,93.975,34.0
+2732,17.8970603452,-16.065,7.888,False,Ronny Rodelin,LOSC,16.065,25.296
+2736,10.7117647472,-5.04,9.452,False,Vitali Rodionov,BATE,5.04,27.336
+2739,26.6852850088,-9.45,-24.956,False,Renan Bressan,BATE,9.45,58.82
+2741,15.0053655737,-11.13,10.064,False,Aleksandr Hleb,BATE,11.13,22.576
+2745,11.8281718368,-8.295,8.432,False,Vitali Rodionov,BATE,8.295,28.016
+2748,24.8077500794,-24.36,-4.692,False,Yegor Filipenko,BATE,24.36,45.152
+2760,18.6326272973,-18.48,2.38,False,Kim Källström,Spartak Moskva,18.48,33.592
+2778,9.64195462549,9.555,1.292,False,Pedro Rodríguez,Barcelona,95.445,32.028
+2780,9.81280469591,7.56,6.256,False,Gerard Piqué,Barcelona,97.44,29.104
+2783,13.7445270926,-13.125,-4.08,False,Dmitri Kombarov,Spartak Moskva,13.125,39.508
+2785,20.5672234636,17.325,-11.084,True,Daniel Alves,Barcelona,87.675,41.888
+2791,13.7835571969,-9.345,10.132,False,Marek Suchý,Spartak Moskva,9.345,25.5
+2797,14.298443132,11.13,8.976,False,Andrés Iniesta,Barcelona,93.87,23.12
+2800,14.298443132,11.13,8.976,False,Andrés Iniesta,Barcelona,93.87,23.12
+2801,16.9399754722,16.905,1.088,True,Lionel Messi,Barcelona,88.095,35.428
+2811,12.9130633081,-6.51,11.152,False,Emmanuel Emenike,Spartak Moskva,6.51,24.82
+2821,10.1193008158,9.555,3.332,True,Lionel Messi,Barcelona,95.445,27.948
+2822,11.981881697,11.025,4.692,False,Emmanuel Emenike,Spartak Moskva,93.975,28.968
+2824,9.43627913958,-6.09,-7.208,False,Sergio Busquets,Barcelona,6.09,39.916
+2829,8.55845552655,-7.245,4.556,False,Pedro Rodríguez,Barcelona,7.245,30.668
+2832,11.0071447706,9.45,-5.644,False,Evgeni Makeev,Spartak Moskva,95.55,44.404
+2833,28.9170247605,-10.185,27.064,False,Lionel Messi,Barcelona,10.185,8.024
+2834,11.5434470155,-2.415,-11.288,False,Pedro Rodríguez,Barcelona,2.415,42.636
+2835,19.112,-16.8,-9.112,False,Pedro Rodríguez,Barcelona,16.8,48.348
+2837,27.9419175434,27.93,-0.816,False,José Manuel Jurado,Spartak Moskva,77.07,40.8
+2843,27.1110384161,25.41,9.452,False,Kim Källström,Spartak Moskva,79.59,26.656
+2848,18.0927428545,18.06,-1.088,False,Welliton,Spartak Moskva,86.94,33.32
+2853,33.8561947655,-33.81,-1.768,False,Óscar Cardozo,Benfica,33.81,36.924
+2855,33.8561947655,-33.81,-1.768,False,Óscar Cardozo,Benfica,33.81,36.924
+2857,16.606364563,-12.18,-11.288,True,Ola John,Benfica,12.18,42.84
+2859,20.978413286,-14.28,-15.368,False,Óscar Cardozo,Benfica,14.28,45.288
+2861,2.584,0.0,-2.584,True,Giorgos Samaras,Celtic,105.0,33.728
+2867,15.8729733825,15.75,-1.972,False,Giorgos Samaras,Celtic,89.25,31.824
+2873,20.1388659313,-20.055,1.836,False,Eduardo Salvio,Benfica,20.055,33.252
+2874,21.4850325808,-16.905,13.26,False,André Almeida,Benfica,16.905,22.576
+2876,20.1074414086,-18.06,8.84,False,Nemanja Matić,Benfica,18.06,26.588
+2878,19.6508492437,19.53,-2.176,False,Enzo Peréz,Benfica,85.47,36.516
+2881,10.048137937,6.93,7.276,False,Luisão,Benfica,98.07,27.404
+2886,33.5625167263,32.655,7.752,False,Nemanja Matić,Benfica,72.345,25.976
+2890,6.04993231367,5.985,-0.884,True,Ezequiel Garay,Benfica,99.015,35.564
+2898,20.3,20.16,-2.38,False,Nicolás Gaitán,Benfica,84.84,32.3
+2899,17.0940518602,-16.695,3.672,False,Beram Kayal,Celtic,16.695,31.552
+2901,16.0445512558,-12.915,9.52,False,Tony Watt,Celtic,12.915,20.128
+2902,31.2127330428,30.66,5.848,False,Burak Yılmaz,Galatasaray,74.34,27.744
+2907,25.9668812336,25.725,3.536,False,Nordin Amrabat,Galatasaray,79.275,25.976
+2913,21.0414073911,17.115,12.24,False,Nordin Amrabat,Galatasaray,87.885,17.612
+2915,7.60815246956,5.88,4.828,False,Burak Yılmaz,Galatasaray,99.12,25.704
+2919,30.1387810138,28.875,8.636,False,Nordin Amrabat,Galatasaray,76.125,21.08
+2926,17.4126534451,16.17,6.46,False,Hamit Altıntop,Galatasaray,88.83,24.616
+2931,26.1726301506,23.835,10.812,False,Nick Powell,Man. United,81.165,28.424
+2932,29.8101597614,-29.715,-2.38,False,Albert Riera,Galatasaray,29.715,33.252
+2935,7.88812398483,-7.77,1.36,False,Felipe Melo,Galatasaray,7.77,32.232
+2937,9.86572860969,-8.715,-4.624,True,Burak Yılmaz,Galatasaray,8.715,35.428
+2938,25.2673588647,20.16,15.232,False,Anderson,Man. United,84.84,19.924
+2945,17.3642672175,-12.18,12.376,False,Emmanuel Eboué,Galatasaray,12.18,19.108
+2952,9.80534757161,4.515,-8.704,False,Anderson,Man. United,100.485,46.852
+2961,24.0575762703,-22.68,8.024,False,Felipe Melo,Galatasaray,22.68,26.656
+2964,20.3080634478,20.055,3.196,False,Javier Hernández,Man. United,84.945,33.66
+2972,14.585505682,-12.18,-8.024,True,Rui Pedro,CFR Cluj,12.18,38.964
+2978,11.4769954256,-11.34,-1.768,True,Rui Pedro,CFR Cluj,11.34,38.964
+2981,8.7899508531,4.83,-7.344,True,Alan,Braga,100.17,44.472
+2986,11.4165879754,8.505,-7.616,False,Éder,Braga,96.495,39.712
+2993,13.6507390276,11.55,7.276,False,Éder,Braga,93.45,22.576
+2998,30.5801407616,29.295,8.772,False,Hugo Viana,Braga,75.705,23.596
+3012,28.3367866209,-24.15,14.824,False,Rafael Bastos,CFR Cluj,24.15,19.176
+3020,24.3518659655,19.32,14.824,False,Éder,Braga,85.68,15.096
+3025,14.4983640801,-10.815,9.656,True,Rui Pedro,CFR Cluj,10.815,27.404
+3027,7.2374874784,7.035,-1.7,False,Éder,Braga,97.965,42.16
+3031,25.3254781001,-18.585,17.204,False,Modou Sougou,CFR Cluj,18.585,20.536
+3034,20.9458826503,18.48,9.86,False,Ismaily,Braga,86.52,19.652
+3036,9.11003408336,7.455,5.236,False,Alan,Braga,97.545,24.548
+3038,34.2829128867,34.23,-1.904,False,Luís Alberto,CFR Cluj,70.77,36.04
+3044,29.6164333437,-28.35,8.568,False,Alan,Braga,28.35,29.512
+3047,8.47764707923,3.99,7.48,False,Rafael Bastos,CFR Cluj,101.01,22.984
+3050,7.61857309475,6.3,-4.284,False,Felice Piccolo,CFR Cluj,98.7,33.864
+3054,29.7153112217,-29.715,0.136,False,Nuno André Coelho,Braga,29.715,36.244
+3062,26.0467740037,24.99,7.344,False,Camora,CFR Cluj,80.01,22.372
+3065,22.4503532489,-8.085,20.944,False,Alan,Braga,8.085,17.0
+3068,12.6815552674,-10.29,-7.412,False,Alan,Braga,10.29,43.792
+3070,24.1523932562,24.15,-0.34,False,Luís Alberto,CFR Cluj,80.85,29.716
+3071,13.3007411824,11.55,6.596,False,Pantelis Kapetanos,CFR Cluj,93.45,31.484
+3073,10.5140827465,-10.5,0.544,False,Dante,Bayern,10.5,37.604
+3087,17.5513080994,-11.34,13.396,False,Thomas Müller,Bayern,11.34,16.184
+3088,32.8437137973,-24.78,21.556,False,David Alaba,Bayern,24.78,16.524
+3090,10.2735011072,-8.715,5.44,False,Dante,Bayern,8.715,31.62
+3105,13.403403896,12.81,-3.944,False,Sofiane Feghouli,Valencia,92.19,37.74
+3114,17.9326394042,-17.43,4.216,False,Claudio Pizarro,Bayern,17.43,30.464
+3116,22.4424000722,17.955,-13.464,False,Roberto Soldado,Valencia,87.045,49.096
+3122,22.0327483533,12.18,-18.36,False,Sofiane Feghouli,Valencia,92.82,47.872
+3124,10.409224803,10.395,0.544,False,Dante,Bayern,94.605,37.604
+3126,14.8562862452,-10.605,10.404,False,Roberto Soldado,Valencia,10.605,25.636
+3128,8.40240447729,-7.455,-3.876,False,Ricardo Costa,Valencia,7.455,33.524
+3132,16.3028587677,-7.35,14.552,False,Roberto Soldado,Valencia,7.35,23.528
+3141,6.7429733056,6.405,2.108,False,Thomas Müller,Bayern,98.595,29.988
+3146,12.5466897626,10.5,-6.868,False,Dante,Bayern,94.5,43.316
+3155,21.1482263086,20.79,-3.876,False,Javi Martínez,Bayern,84.21,33.592
+3158,11.55,11.55,0.0,False,Mario Mandžukić,Bayern,93.45,37.876
+3159,21.1865641386,-20.79,4.08,True,Sofiane Feghouli,Valencia,20.79,28.764
+3168,18.4854461942,16.485,8.364,True,Thomas Müller,Bayern,88.515,28.084
+3170,23.8854416748,21.63,10.132,False,Bastian Schweinsteiger,Bayern,83.37,24.616
+3175,34.5521894531,32.97,10.336,False,Bastian Schweinsteiger,Bayern,72.03,27.744
+3196,14.2131848999,-6.615,12.58,False,Henrikh Mkhitaryan,Shakhtar Donetsk,6.615,27.336
+3205,3.99231712167,3.99,-0.136,True,Morten Nordstrand,Nordsjælland,101.01,36.244
+3207,14.3981198773,-10.92,9.384,True,Luiz Adriano,Shakhtar Donetsk,10.92,26.656
+3219,10.1968340675,9.345,4.08,True,Kasper Lorentzen,Nordsjælland,95.655,29.24
+3238,18.569836429,-13.965,-12.24,False,Henrikh Mkhitaryan,Shakhtar Donetsk,13.965,42.092
+3247,12.7906378262,-7.98,9.996,False,Henrikh Mkhitaryan,Shakhtar Donetsk,7.98,19.788
+3249,12.930607449,-9.975,8.228,True,Willian,Shakhtar Donetsk,9.975,28.424
+3253,16.2698770739,15.75,-4.08,False,Henrikh Mkhitaryan,Shakhtar Donetsk,89.25,38.964
+3255,12.694882788,11.655,-5.032,False,Fernandinho,Shakhtar Donetsk,93.345,42.908
+3257,25.5259477591,18.795,17.272,True,Willian,Shakhtar Donetsk,86.205,19.856
+3262,7.035,7.035,0.0,True,Luiz Adriano,Shakhtar Donetsk,97.965,36.924
+3265,13.7761933784,-5.46,12.648,False,Kasper Lorentzen,Nordsjælland,5.46,25.296
+3269,14.4684700297,-9.135,11.22,False,Anders Christiansen,Nordsjælland,9.135,26.86
+3285,30.348985156,-22.47,20.4,False,Nicolai Stokholm,Nordsjælland,22.47,18.564
+3290,5.87124143602,-4.41,3.876,False,Kasper Lorentzen,Nordsjælland,4.41,32.096
+3298,5.05637379947,4.83,1.496,True,Luiz Adriano,Shakhtar Donetsk,100.17,30.804
+3304,50.6302955255,28.035,-42.16,False,Douglas Costa,Shakhtar Donetsk,76.965,49.64
+3305,25.8843350311,24.78,7.48,False,Darijo Srna,Shakhtar Donetsk,80.22,22.168
+3314,8.56594565708,8.505,-1.02,False,Stephan Lichtsteiner,Juventus,96.495,36.176
+3324,3.11191259517,2.94,-1.02,False,Stephan Lichtsteiner,Juventus,102.06,37.332
+3329,37.8535354227,-23.1,29.988,False,Branislav Ivanović,Chelsea,23.1,10.336
+3333,14.7297185649,-8.295,12.172,False,Eden Hazard,Chelsea,8.295,23.936
+3336,14.9982879356,12.495,-8.296,False,Claudio Marchisio,Juventus,92.505,44.608
+3341,18.2873228221,14.28,11.424,False,Fabio Quagliarella,Juventus,90.72,22.576
+3344,22.8005794882,11.445,-19.72,False,Fabio Quagliarella,Juventus,93.555,52.088
+3353,23.9500099374,23.1,6.324,False,Mirko Vučinić,Juventus,81.9,24.82
+3354,20.03941319,16.695,11.084,False,Andrea Pirlo,Juventus,88.305,22.1
+3356,24.1117558257,-22.785,7.888,False,Ramires,Chelsea,22.785,31.688
+3364,15.1964346147,13.755,6.46,True,Fabio Quagliarella,Juventus,91.245,30.532
+3369,16.1017666422,-15.645,-3.808,False,Juan Mata,Chelsea,15.645,39.236
+3376,14.3127361465,5.04,-13.396,False,Stephan Lichtsteiner,Juventus,99.96,52.904
+3382,22.1027686953,-11.34,18.972,False,Oscar,Chelsea,11.34,19.788
+3401,22.7175787442,-20.16,-10.472,False,Ramires,Chelsea,20.16,38.692
+3405,20.0209132909,-3.045,19.788,False,Mirko Vučinić,Juventus,3.045,17.612
+3407,27.1928874708,-18.795,19.652,False,Arturo Vidal,Juventus,18.795,16.184
+3414,8.44129853755,7.665,-3.536,False,César Azpilicueta,Chelsea,97.335,43.112
+3418,12.7939549788,-7.35,10.472,False,Fabio Quagliarella,Juventus,7.35,25.704
+3420,29.2588511224,-25.305,14.688,False,Andrea Pirlo,Juventus,25.305,23.868
+3424,11.5676272416,-0.42,11.56,False,Fabio Quagliarella,Juventus,0.42,23.596
+3426,7.06763899757,-6.825,-1.836,False,Leonardo Bonucci,Juventus,6.825,33.524
+3431,24.4916446161,-21.84,11.084,False,Mirko Vučinić,Juventus,21.84,25.092
+3434,17.4767343631,-17.01,-4.012,True,Arturo Vidal,Juventus,17.01,36.856
+3437,26.0289958316,-13.86,-22.032,False,Kwadwo Asamoah,Juventus,13.86,50.932
+3440,30.4666608771,-30.345,-2.72,False,Mirko Vučinić,Juventus,30.345,31.552
+3450,9.18394038526,-7.245,5.644,False,Mirko Vučinić,Juventus,7.245,30.736
+3451,25.2840784883,24.255,7.14,False,David Luiz,Chelsea,80.745,27.608
+3458,31.7375704174,-31.5,-3.876,False,Andrea Pirlo,Juventus,31.5,33.116
+3461,26.1424356937,-26.04,-2.312,False,Sebastian Giovinco,Juventus,26.04,40.188
+3464,28.9702071101,-28.77,3.4,True,Sebastian Giovinco,Juventus,28.77,27.404
+3465,10.7764612002,8.19,7.004,False,Ideye Brown,Dynamo Kyiv,96.81,22.576
+3467,7.48036389489,-4.83,5.712,False,Fatos Beqiraj,Dinamo Zagreb,4.83,31.008
+3470,26.5159843302,-26.145,4.42,False,Sammir,Dinamo Zagreb,26.145,29.988
+3475,18.3568830688,-17.85,4.284,False,Sammir,Dinamo Zagreb,17.85,33.32
+3478,17.5487435448,-14.28,10.2,False,Fatos Beqiraj,Dinamo Zagreb,14.28,26.656
+3480,8.68938024257,4.305,7.548,False,Ideye Brown,Dynamo Kyiv,100.695,26.724
+3483,26.3407520014,-22.68,13.396,False,Marcelo Brozović,Dinamo Zagreb,22.68,22.576
+3486,20.4579076154,19.74,-5.372,True,Andriy Yarmolenko,Dynamo Kyiv,85.26,41.004
+3489,31.5003476806,-19.74,24.548,False,Andriy Yarmolenko,Dynamo Kyiv,19.74,7.548
+3491,34.6384849698,30.975,15.504,False,Luis Ibáñez,Dinamo Zagreb,74.025,23.256
+3493,19.0005377819,11.97,14.756,False,Fatos Beqiraj,Dinamo Zagreb,93.03,23.936
+3495,23.5229376567,-20.37,11.764,False,Marco Ruben,Dynamo Kyiv,20.37,25.84
+3497,13.2408200652,8.19,10.404,False,Josip Pivarić,Dinamo Zagreb,96.81,22.576
+3498,24.154690559,24.15,0.476,False,Ivan Krstanović,Dinamo Zagreb,80.85,31.076
+3500,19.1795600575,19.11,1.632,False,Ivan Krstanović,Dinamo Zagreb,85.89,32.844
+3501,11.3237662021,11.025,2.584,True,Ivan Krstanović,Dinamo Zagreb,93.975,34.0
+3506,9.6821547705,-9.555,1.564,False,Zlatan Ibrahimović,PSG,9.555,37.264
+3509,21.4854753031,-15.015,15.368,False,Gregory van der Wiel,PSG,15.015,21.556
+3516,10.0076362844,-1.26,9.928,False,Ezequiel Lavezzi,PSG,1.26,28.22
+3518,20.8297096475,20.37,4.352,False,Jackson Martínez,Porto,84.63,32.844
+3520,7.86581693151,-7.77,1.224,False,Alex,PSG,7.77,32.98
+3521,22.616552014,-18.795,-12.58,False,Javier Pastore,PSG,18.795,43.928
+3524,18.7543279272,-18.48,-3.196,False,Blaise Matuidi,PSG,18.48,38.284
+3528,17.9212577963,-1.155,-17.884,False,Zlatan Ibrahimović,PSG,1.155,47.736
+3530,11.3996947766,-10.815,3.604,True,Thiago Silva,PSG,10.815,27.744
+3536,10.107021124,9.87,2.176,True,Jackson Martínez,Porto,95.13,28.764
+3551,23.5769087244,22.575,-6.8,False,James Rodríguez,Porto,82.425,37.4
+3553,13.9102841092,11.55,7.752,False,Fernando,Porto,93.45,31.144
+3555,11.1385681306,-10.71,-3.06,False,Zlatan Ibrahimović,PSG,10.71,40.324
+3560,14.9484045971,14.28,4.42,False,Jérémy Ménez,PSG,90.72,26.656
+3566,13.8137097117,10.5,-8.976,True,Ezequiel Lavezzi,PSG,94.5,46.24
+3569,21.1366355175,21.105,1.156,False,Jérémy Ménez,PSG,83.895,37.332
+3578,23.846734137,-23.835,-0.748,False,James Rodríguez,Porto,23.835,36.312
+3586,14.2907019072,-13.545,-4.556,False,Jackson Martínez,Porto,13.545,39.644
+3588,19.8786408238,-19.845,-1.156,False,Lucho González,Porto,19.845,35.156
+3595,13.3848893907,-11.76,6.392,False,Silvestre Varela,Porto,11.76,32.64
+3596,24.7305883472,22.68,9.86,False,Zlatan Ibrahimović,PSG,82.32,23.46
+3599,18.3697752844,-16.59,7.888,False,Silvestre Varela,Porto,16.59,27.676
+3600,17.0890557083,15.015,8.16,False,Javier Pastore,PSG,89.985,25.976
+3602,11.0268871854,11.025,-0.204,False,Zlatan Ibrahimović,PSG,93.975,34.0
+3614,15.6597942515,11.13,11.016,False,Javier Pastore,PSG,93.87,22.576
+3616,15.0656643066,-13.545,-6.596,False,Nicolás Otamendi,Porto,13.545,35.564
+3620,28.4104558218,-24.36,14.62,False,Emanuel Herrera,Montpellier,24.36,23.936
+3627,14.3668343416,-13.755,4.148,False,Emanuel Herrera,Montpellier,13.755,23.936
+3631,15.1068204795,-13.125,7.48,False,Souleymane Camara,Montpellier,13.125,31.416
+3637,7.88538115756,7.35,2.856,False,Teemu Pukki,Schalke,97.65,25.976
+3649,25.7777082185,-20.895,15.096,False,Emanuel Herrera,Montpellier,20.895,19.584
+3651,9.6227659745,8.715,4.08,False,Roman Neustädter,Schalke,96.285,34.204
+3658,27.0255434913,-23.625,-13.124,False,Julian Draxler,Schalke,23.625,53.312
+3664,34.5055474381,-34.23,-4.352,False,Tranquillo Barnetta,Schalke,34.23,33.592
+3667,20.8862940945,17.745,-11.016,False,Rémy Cabella,Montpellier,87.255,43.52
+3670,7.10120665803,-3.36,6.256,True,Benedikt Höwedes,Schalke,3.36,28.492
+3671,3.465,3.465,0.0,True,Emanuel Herrera,Montpellier,101.535,35.428
+3678,19.483137735,19.32,-2.516,False,Emanuel Herrera,Montpellier,85.68,41.072
+3682,41.8448814074,34.65,23.46,False,Marco Estrada,Montpellier,70.35,15.844
+3684,25.0957510547,18.585,16.864,False,Emanuel Herrera,Montpellier,86.415,21.692
+3686,28.2580013624,23.625,-15.504,False,Rémy Cabella,Montpellier,81.375,52.7
+3690,26.8896091641,21.525,16.116,False,Marco Estrada,Montpellier,83.475,13.124
+3695,11.573285791,11.34,-2.312,False,Emanuel Herrera,Montpellier,93.66,37.604
+3697,27.5932264152,27.3,4.012,False,Romain Pitau,Montpellier,77.7,24.684
+3699,10.605,10.605,0.0,False,Emanuel Herrera,Montpellier,94.395,33.456
+3709,19.390593699,-9.45,-16.932,False,Gervinho,Arsenal,9.45,45.832
+3715,23.9346791079,21.84,9.792,False,Djamel Abdoun,Olympiacos,83.16,23.936
+3720,16.576017646,12.075,11.356,False,Djamel Abdoun,Olympiacos,92.925,20.128
+3722,9.09873183471,6.195,6.664,False,Rafik Djebbour,Olympiacos,98.805,26.384
+3727,15.822529033,13.755,7.82,False,Vassilis Torossidis,Olympiacos,91.245,25.296
+3731,28.2166802441,27.93,4.012,False,Kostas Manolas,Olympiacos,77.07,35.904
+3733,19.0111146701,9.975,16.184,False,Djamel Abdoun,Olympiacos,95.025,22.508
+3738,16.3860307579,-16.17,-2.652,True,Tomáš Rosický,Arsenal,16.17,34.0
+3740,14.7903152096,14.7,-1.632,False,Marouane Chamakh,Arsenal,90.3,32.572
+3743,17.9341357472,12.075,13.26,False,Andrey Arshavin,Arsenal,92.925,21.216
+3750,21.1262718907,-11.97,-17.408,False,Ljubomir Fejsa,Olympiacos,11.97,46.512
+3757,25.1650253328,-24.57,5.44,False,David Fuster,Olympiacos,24.57,28.016
+3761,13.0047284093,9.345,-9.044,False,Andrey Arshavin,Arsenal,95.655,46.512
+3767,12.3601165448,-10.815,5.984,False,Paulo Machado,Olympiacos,10.815,31.552
+3771,9.17850183854,-3.78,8.364,True,Giannis Maniatis,Olympiacos,3.78,26.248
+3772,33.8640904942,-28.455,-18.36,False,Paulo Machado,Olympiacos,28.455,48.552
+3780,12.8283367589,-10.92,-6.732,False,Rafik Djebbour,Olympiacos,10.92,35.7
+3782,17.9151886398,-17.64,-3.128,True,Kostas Mitroglou,Olympiacos,17.64,40.868
+3783,8.97012731236,7.56,4.828,False,Weligton,Málaga,97.44,27.948
+3785,20.0605359849,11.76,16.252,False,Weligton,Málaga,93.24,18.02
+3787,19.4550324852,18.375,6.392,True,Duda,Málaga,86.625,24.752
+3790,18.0881618746,14.7,10.54,True,Milan Jovanović,Anderlecht,90.3,25.84
+3795,16.4379451575,-8.925,-13.804,True,Duda,Málaga,8.925,48.892
+3797,15.2188435829,-13.44,-7.14,False,Seba,Málaga,13.44,40.868
+3804,14.4999536551,14.28,2.516,True,Dieudonné Mbokani,Anderlecht,90.72,32.3
+3807,14.0464757502,-8.715,11.016,False,Hulk,Zenit,8.715,25.84
+3809,14.0464757502,-8.715,11.016,False,Hulk,Zenit,8.715,25.84
+3811,24.7604194027,23.625,7.412,False,Urby Emanuelson,Milan,81.375,29.104
+3814,20.8581311723,-15.33,14.144,False,Sergei Semak,Zenit,15.33,19.924
+3817,13.4556367742,3.255,-13.056,False,Cristián Zapata,Milan,101.745,45.288
+3822,25.1865059903,22.05,-12.172,False,Mathieu Flamini,Milan,82.95,50.592
+3830,18.1759678972,15.225,9.928,False,Urby Emanuelson,Milan,89.775,18.972
+3842,13.1871028281,-12.495,-4.216,True,Danny,Zenit,12.495,41.412
+3847,9.68390417136,9.66,0.68,False,Bojan Krkić,Milan,95.34,37.74
+3851,24.9208226389,23.835,-7.276,False,Mathieu Flamini,Milan,81.165,40.732
+3853,13.424707967,8.4,10.472,False,Giampaolo Pazzini,Milan,96.6,28.9
+3856,10.7953673397,-9.03,5.916,False,Giampaolo Pazzini,Milan,9.03,30.056
+3857,24.3824727212,-23.94,4.624,False,Mathieu Flamini,Milan,23.94,24.616
+3860,25.8625907635,24.255,-8.976,False,Sergei Semak,Zenit,80.745,43.452
+3865,15.1260662765,-8.085,-12.784,False,Giampaolo Pazzini,Milan,8.085,39.644
+3866,30.0990801354,-28.665,-9.18,False,Bojan Krkić,Milan,28.665,39.168
+3878,23.5566572331,-23.31,-3.4,False,Kevin-Prince Boateng,Milan,23.31,38.216
+3881,14.085137699,-11.76,7.752,False,Mathieu Flamini,Milan,11.76,26.656
+3892,20.5286572625,-16.275,-12.512,False,Robinho,Milan,16.275,50.456
+3900,20.5286572625,-16.275,-12.512,False,Robinho,Milan,16.275,50.456
+3909,18.5974030714,-17.115,-7.276,False,Stephan El Shaarawy,Milan,17.115,45.356
+3910,27.0711868229,-18.69,-19.584,False,Bojan Krkić,Milan,18.69,51.68
+3913,10.6065870571,10.395,2.108,False,Igor Denisov,Zenit,94.605,29.716
+3916,33.5208532708,-32.97,-6.052,False,Stephan El Shaarawy,Milan,32.97,42.976
+3920,26.988932565,25.305,-9.384,False,Oliver Kirch,Dortmund,79.695,42.432
+3928,14.5102584402,11.76,8.5,False,Julian Schieber,Dortmund,93.24,30.804
+3929,22.8554037593,21.525,7.684,False,Marco Reus,Dortmund,83.475,31.008
+3930,41.0401756332,22.68,34.204,False,Marco Reus,Dortmund,82.32,2.856
+3932,26.5074649863,-24.99,-8.84,False,Edin Džeko,Man. City,24.99,39.44
+3940,32.4157517883,29.61,13.192,False,Ivan Perišić,Dortmund,75.39,24.072
+3942,9.26847754488,-2.31,8.976,False,Edin Džeko,Man. City,2.31,28.968
+3952,3.527694006,3.255,-1.36,False,Edin Džeko,Man. City,101.745,35.904
+3953,33.5338497044,-27.51,19.176,False,Marcel Schmelzer,Dortmund,27.51,10.948
+3956,15.4778107302,12.705,8.84,False,Edin Džeko,Man. City,92.295,32.912
+3972,22.5547821093,-12.81,-18.564,False,Ivan Perišić,Dortmund,12.81,50.456
+3978,19.390593699,-9.45,-16.932,False,Kevin Grosskreutz,Dortmund,9.45,47.464
+3982,8.19592972151,-6.72,-4.692,True,Julian Schieber,Dortmund,6.72,36.924
+3987,10.9315657159,-10.605,-2.652,False,Julian Schieber,Dortmund,10.605,35.496
+3993,28.0214957488,-23.52,-15.232,False,Ivan Perišić,Dortmund,23.52,45.492
+3996,9.88188241177,5.04,-8.5,False,Carlos Tévez,Man. City,99.96,45.152
+4017,14.4242712468,-5.985,13.124,False,Moritz Leitner,Dortmund,5.985,25.092
+4019,31.4976342604,-26.25,17.408,False,Robert Lewandowski,Dortmund,26.25,20.604
+4020,21.0378784339,-18.795,-9.452,False,Moritz Leitner,Dortmund,18.795,47.532
+4024,18.972,0.0,-18.972,False,Robert Lewandowski,Dortmund,0.0,49.436
+4028,10.9909433626,5.25,9.656,False,Sergio Agüero,Man. City,99.75,21.148
+4031,10.6951522196,10.395,-2.516,True,Cristiano Ronaldo,Real Madrid,94.605,33.252
+4034,18.8435846112,9.765,-16.116,False,Karim Benzema,Real Madrid,95.235,48.62
+4035,24.2049254492,20.16,13.396,False,Kaká,Real Madrid,84.84,23.324
+4036,23.2045892875,22.89,-3.808,False,Cristiano Ronaldo,Real Madrid,82.11,39.916
+4041,11.8720379043,6.51,9.928,True,José Callejón,Real Madrid,98.49,26.928
+4045,28.0044014398,27.93,2.04,False,Nacho,Real Madrid,77.07,26.656
+4050,32.3140193879,31.605,-6.732,False,Sami Khedira,Real Madrid,73.395,37.4
+4053,16.1010131358,10.92,11.832,False,Luka Modrić,Real Madrid,94.08,19.924
+4057,15.9940790294,-11.97,-10.608,False,Viktor Fischer,Ajax,11.97,43.656
+4059,2.21050424112,1.995,-0.952,False,Raphaël Varane,Real Madrid,103.005,32.232
+4063,20.1017039079,-19.53,-4.76,True,Kaká,Real Madrid,19.53,35.428
+4067,17.5603313181,12.39,12.444,False,Daley Blind,Ajax,92.61,16.796
+4070,26.9569286084,17.22,-20.74,False,Derk Boerrigter,Ajax,87.78,55.964
+4080,20.5415458036,14.7,14.348,False,Viktor Fischer,Ajax,90.3,24.752
+4082,18.9312503813,17.745,-6.596,True,Derk Boerrigter,Ajax,87.255,39.78
+4088,21.6353512798,-3.045,21.42,False,Karim Benzema,Real Madrid,3.045,15.028
+4094,16.72617951,15.645,-5.916,False,Daniel Hoesen,Ajax,89.355,44.132
+4095,28.3774198263,23.31,16.184,False,Christian Eriksen,Ajax,81.69,19.856
+4096,23.7883946705,23.205,-5.236,False,Siem de Jong,Ajax,81.795,42.092
+4099,8.23055016387,-8.19,-0.816,True,José Callejón,Real Madrid,8.19,37.196
+4108,19.8648000493,-16.485,-11.084,False,Luka Modrić,Real Madrid,16.485,44.132
+4118,32.5048736192,32.445,1.972,False,Victor Wanyama,Celtic,72.555,34.068
+4122,30.9597403736,25.83,17.068,False,Efe Ambrose,Celtic,79.17,12.036
+4125,9.40518346445,-8.19,-4.624,True,Alessandro Matri,Juventus,8.19,39.576
+4136,21.4442719625,21.42,1.02,False,Victor Wanyama,Celtic,83.58,33.456
+4146,13.1368696423,-6.72,11.288,False,Claudio Marchisio,Juventus,6.72,27.404
+4147,19.5886979914,19.215,3.808,False,Charlie Mulgrew,Celtic,85.785,25.092
+4149,18.1014302197,18.06,-1.224,False,Kris Commons,Celtic,86.94,32.504
+4151,7.20324989154,3.045,-6.528,False,Charlie Mulgrew,Celtic,101.955,43.316
+4157,8.73899971393,8.61,1.496,False,Kris Commons,Celtic,96.39,31.484
+4160,21.6031599772,21.525,1.836,False,Kris Commons,Celtic,83.475,30.124
+4161,31.3952945678,31.395,-0.136,False,Victor Wanyama,Celtic,73.605,41.616
+4165,14.2227541637,12.18,-7.344,False,Kris Commons,Celtic,92.82,36.856
+4167,11.5342647793,11.34,-2.108,False,Efe Ambrose,Celtic,93.66,30.804
+4169,7.98028971905,7.98,0.068,False,Victor Wanyama,Celtic,97.02,32.096
+4171,18.3210162382,17.43,5.644,False,Kris Commons,Celtic,87.57,26.384
+4173,30.225765317,-27.195,13.192,False,Stephan Lichtsteiner,Juventus,27.195,23.188
+4182,11.5949514876,-11.55,1.02,False,Kris Commons,Celtic,11.55,31.484
+4185,7.25647910491,-7.245,-0.408,False,Efe Ambrose,Celtic,7.245,33.456
+4191,11.7456034328,11.34,3.06,True,Claudio Marchisio,Juventus,93.66,28.084
+4193,12.4361929866,10.5,6.664,True,Mirko Vučinić,Juventus,94.5,26.792
+4194,33.3377517088,-31.605,10.608,False,Charlie Mulgrew,Celtic,31.605,21.828
+4198,16.6124531903,-10.185,13.124,True,Ezequiel Lavezzi,PSG,10.185,23.256
+4214,18.9279730558,18.69,-2.992,False,Éver Banega,Valencia,86.31,32.64
+4222,15.3102648246,11.655,9.928,False,Andrés Guardado,Valencia,93.345,20.128
+4225,20.433855461,-17.745,10.132,False,Lucas,PSG,17.745,26.86
+4227,19.7722717208,-8.715,17.748,False,Lucas,PSG,8.715,19.652
+4229,15.4651382147,15.33,-2.04,False,Jonas,Valencia,89.67,38.284
+4236,17.2171235693,-15.54,7.412,False,Ezequiel Lavezzi,PSG,15.54,29.716
+4239,12.5480669428,-11.34,5.372,True,Javier Pastore,PSG,11.34,31.824
+4241,7.77178589515,-5.04,-5.916,False,Nelson Valdez,Valencia,5.04,43.112
+4246,27.1067216018,20.37,17.884,False,Zlatan Ibrahimović,PSG,84.63,17.068
+4248,4.30714766406,4.305,-0.136,False,Ezequiel Lavezzi,PSG,100.695,38.284
+4250,9.53005188863,8.295,-4.692,False,Ezequiel Lavezzi,PSG,96.705,39.576
+4253,25.1700221692,23.1,9.996,False,Blaise Matuidi,PSG,81.9,21.488
+4258,7.26208482462,3.57,-6.324,False,Zlatan Ibrahimović,PSG,101.43,40.528
+4259,21.4462095485,-21.0,4.352,False,Sofiane Feghouli,Valencia,21.0,31.484
+4275,6.78272187252,6.51,-1.904,False,Zlatan Ibrahimović,PSG,98.49,37.196
+4276,31.8113894698,26.67,17.34,False,Zlatan Ibrahimović,PSG,78.33,20.536
+4284,16.815093339,-2.73,-16.592,False,Nelson Valdez,Valencia,2.73,46.512
+4285,29.9161035063,-21.945,20.332,False,Tino Costa,Valencia,21.945,10.88
+4287,11.6551983681,-11.655,-0.068,True,Adil Rami,Valencia,11.655,35.36
+4292,16.2772064249,-15.435,5.168,False,Gonzalo Higuaín,Real Madrid,15.435,33.116
+4294,11.4470127107,9.45,6.46,False,Robin van Persie,Man. United,95.55,33.524
+4297,10.035636502,-9.66,-2.72,False,Sami Khedira,Real Madrid,9.66,36.72
+4299,6.49304312322,-5.355,3.672,False,Raphaël Varane,Real Madrid,5.355,33.116
+4304,15.9891333098,-5.46,-15.028,False,Gonzalo Higuaín,Real Madrid,5.46,45.832
+4305,16.2450484764,5.46,15.3,False,Robin van Persie,Man. United,99.54,15.844
+4307,9.01919957646,7.035,5.644,False,Danny Welbeck,Man. United,97.965,25.976
+4309,11.6209810257,9.66,-6.46,False,Nemanja Vidić,Man. United,95.34,38.964
+4314,30.5062096138,-23.835,-19.04,False,Cristiano Ronaldo,Real Madrid,23.835,46.92
+4317,4.70196767322,-3.57,3.06,False,Sergio Ramos,Real Madrid,3.57,29.988
+4327,20.7780875203,20.475,3.536,False,Kaká,Real Madrid,84.525,33.592
+4331,10.4292496854,9.135,5.032,False,Sergio Ramos,Real Madrid,95.865,28.084
+4333,26.225903912,-24.99,7.956,False,Robin van Persie,Man. United,24.99,28.628
+4346,21.6480566333,21.63,-0.884,True,Luka Modrić,Real Madrid,83.37,38.284
+4367,11.6535709549,5.25,10.404,True,Cristiano Ronaldo,Real Madrid,99.75,23.256
+4369,10.6083292275,-8.085,6.868,False,Danny Welbeck,Man. United,8.085,28.764
+4380,24.1426411356,21.945,-10.064,False,Luka Modrić,Real Madrid,83.055,43.588
+4382,18.2766585841,-12.285,13.532,False,Michael Carrick,Man. United,12.285,23.936
+4385,13.5091675909,-2.205,-13.328,False,Michael Carrick,Man. United,2.205,44.88
+4388,12.1466509376,-7.875,-9.248,False,Robin van Persie,Man. United,7.875,40.868
+4390,6.10887886604,-5.985,-1.224,False,Wayne Rooney,Man. United,5.985,30.804
+4392,25.6402824477,20.37,15.572,False,Cristiano Ronaldo,Real Madrid,84.63,16.184
+4393,14.2220589578,14.175,1.156,False,Cristiano Ronaldo,Real Madrid,90.825,30.6
+4396,12.5938699771,8.085,9.656,False,Cristiano Ronaldo,Real Madrid,96.915,21.216
+4398,7.26359938323,-6.93,2.176,False,Nemanja Vidić,Man. United,6.93,33.592
+4402,11.0140521154,2.1,-10.812,False,Cristiano Ronaldo,Real Madrid,102.9,48.076
+4415,12.3668468091,11.55,-4.42,False,Robert Lewandowski,Dortmund,93.45,36.924
+4433,28.317606961,26.88,8.908,False,Sven Bender,Dortmund,78.12,29.988
+4439,15.2655283564,-13.23,7.616,False,Fernandinho,Shakhtar Donetsk,13.23,30.804
+4441,6.66023903475,5.88,3.128,True,Felipe Santana,Dortmund,99.12,34.136
+4445,7.59691411035,7.56,-0.748,True,Mario Götze,Dortmund,97.44,31.212
+4447,22.5766385673,22.575,-0.272,False,Łukasz Piszczek,Dortmund,82.425,38.352
+4449,18.757694128,-13.335,-13.192,False,Olexandr Kucher,Shakhtar Donetsk,13.335,42.432
+4454,27.7444743327,-15.54,22.984,False,Fernandinho,Shakhtar Donetsk,15.54,13.94
+4456,10.2868311933,9.66,-3.536,False,Douglas Costa,Shakhtar Donetsk,95.34,40.12
+4460,19.9005232343,9.765,-17.34,False,Douglas Costa,Shakhtar Donetsk,95.235,47.26
+4464,10.7392441075,4.41,9.792,False,Henrikh Mkhitaryan,Shakhtar Donetsk,100.59,18.224
+4465,22.5832940246,-22.575,0.612,False,Marco Reus,Dortmund,22.575,35.564
+4468,18.5867921116,-7.035,-17.204,False,Mario Götze,Dortmund,7.035,47.872
+4471,18.97111196,-18.585,-3.808,False,İlkay Gündoğan ,Dortmund,18.585,36.244
+4473,7.46314250165,-3.36,-6.664,True,Jakub Błaszczykowski,Dortmund,3.36,37.604
+4481,21.1338568179,19.74,-7.548,False,Douglas Costa,Shakhtar Donetsk,85.26,45.968
+4483,11.3889139517,11.025,-2.856,False,Yaroslav Rakitskiy,Shakhtar Donetsk,93.975,34.0
+4484,11.7634078396,-11.13,-3.808,False,Mario Götze,Dortmund,11.13,42.16
+4490,19.4578453072,-19.32,2.312,False,Kevin Grosskreutz,Dortmund,19.32,35.156
+4503,8.70629708889,-7.245,-4.828,False,Marco Reus,Dortmund,7.245,34.068
+4507,5.65770492338,5.565,1.02,False,Luiz Adriano,Shakhtar Donetsk,99.435,32.164
+4513,27.9872065237,22.785,-16.252,False,Xavi Hernández,Barcelona,82.215,44.744
+4515,9.21259838482,-6.825,-6.188,False,Alex,PSG,6.825,34.884
+4518,33.0126121959,-24.15,-22.508,False,Javier Pastore,PSG,24.15,53.312
+4528,19.7811037104,13.02,14.892,False,Andrés Iniesta,Barcelona,91.98,22.372
+4529,21.1607947866,-20.79,3.944,False,Zlatan Ibrahimović,PSG,20.79,27.132
+4535,21.0321800106,20.37,5.236,False,Andrés Iniesta,Barcelona,84.63,25.636
+4539,11.9292816632,-11.025,-4.556,False,Zlatan Ibrahimović,PSG,11.025,43.792
+4547,18.3925596098,16.275,8.568,False,Alexis Sánchez,Barcelona,88.725,22.508
+4549,12.5419502471,9.03,8.704,True,Lionel Messi,Barcelona,95.97,27.676
+4559,10.3957008422,9.87,-3.264,False,Lionel Messi,Barcelona,95.13,33.932
+4560,23.6298375999,-21.315,-10.2,False,Sergio Busquets,Barcelona,21.315,42.228
+4561,31.8934478538,-21.0,-24.004,False,Jordi Alba,Barcelona,21.0,52.632
+4571,12.2838512283,-4.515,-11.424,False,Alexis Sánchez,Barcelona,4.515,43.86
+4572,31.2238929187,-26.985,-15.708,False,Daniel Alves,Barcelona,26.985,45.968
+4579,15.7227117254,7.14,14.008,False,Maxwell,PSG,97.86,17.544
+4580,22.4174196553,-22.26,-2.652,False,Xavi Hernández,Barcelona,22.26,41.684
+4582,35.3020210328,35.175,2.992,False,Lucas,PSG,69.825,33.32
+4584,9.6822602733,9.45,2.108,False,Zlatan Ibrahimović,PSG,95.55,25.772
+4587,3.62480344295,3.36,1.36,True,Zlatan Ibrahimović,PSG,101.64,30.26
+4588,11.2789638265,-11.025,2.38,True,Xavi Hernández,Barcelona,11.025,34.0
+4602,17.1007018569,16.59,4.148,True,Blaise Matuidi,PSG,88.41,27.404
+4605,33.7083609955,-33.705,0.476,True,David Alaba,Bayern,33.705,36.652
+4606,31.9489592945,31.92,1.36,False,Andrea Pirlo,Juventus,73.08,28.968
+4609,25.6420453357,24.045,-8.908,False,Arturo Vidal,Juventus,80.955,38.148
+4610,15.288784157,-9.765,11.764,False,Arjen Robben,Bayern,9.765,23.8
+4612,17.1242525384,-13.755,-10.2,False,Franck Ribéry,Bayern,13.755,39.848
+4614,12.9105185411,-9.345,-8.908,False,Dante,Bayern,9.345,37.536
+4615,30.7195642059,-23.835,-19.38,False,Bastian Schweinsteiger,Bayern,23.835,55.896
+4617,14.5269132647,-10.605,9.928,False,Arjen Robben,Bayern,10.605,28.288
+4619,17.9338072924,-10.29,14.688,False,Mario Mandžukić,Bayern,10.29,24.14
+4621,22.6598372677,-18.375,13.26,False,Arjen Robben,Bayern,18.375,21.896
+4624,10.3572954481,-9.975,2.788,False,Mario Mandžukić,Bayern,9.975,36.856
+4627,16.9610679204,-16.065,-5.44,False,Bastian Schweinsteiger,Bayern,16.065,42.772
+4629,8.73321681856,4.83,7.276,False,Leonardo Bonucci,Juventus,100.17,25.568
+4631,14.1025871385,11.55,-8.092,False,Mario Mandžukić,Bayern,93.45,45.152
+4637,28.6997321416,28.455,-3.74,False,Luiz Gustavo,Bayern,76.545,35.836
+4638,31.183499547,28.35,12.988,False,David Alaba,Bayern,76.65,23.256
+4653,24.7255923286,24.15,-5.304,False,Luiz Gustavo,Bayern,80.85,36.924
+4655,5.35311881056,4.725,2.516,True,Thomas Müller,Bayern,100.275,29.988
+4664,17.0536231927,-12.6,11.492,False,Arturo Vidal,Juventus,12.6,25.296
+4668,17.0664078236,-6.51,15.776,False,Arturo Vidal,Juventus,6.51,19.856
+4672,26.6585881284,21.735,15.436,False,Franck Ribéry,Bayern,83.265,16.66
+4673,30.6393341964,24.78,18.02,False,Thomas Müller,Bayern,80.22,24.276
+4674,22.6796296487,-22.575,-2.176,False,Leonardo Bonucci,Juventus,22.575,43.792
+4676,44.0059078875,37.485,23.052,False,Franck Ribéry,Bayern,67.515,15.572
+4680,13.0230701449,9.03,9.384,False,Thomas Müller,Bayern,95.97,25.568
+4682,10.9724325471,9.45,5.576,False,Thomas Müller,Bayern,95.55,30.532
+4688,21.9512565472,21.0,-6.392,False,Robert Lewandowski,Dortmund,84.0,39.236
+4693,18.87,-17.85,6.12,True,Joaquín,Málaga,17.85,31.212
+4698,7.875,7.875,0.0,True,Robert Lewandowski,Dortmund,97.125,30.804
+4701,9.6215832377,-8.4,4.692,False,Joaquín,Málaga,8.4,28.084
+4708,16.1409516758,-16.065,-1.564,False,Robert Lewandowski,Dortmund,16.065,36.924
+4711,14.6293051441,11.445,9.112,False,Joaquín,Málaga,93.555,27.132
+4713,15.9228797647,-4.41,-15.3,False,Mario Götze,Dortmund,4.41,44.744
+4721,31.7555365251,31.71,1.7,False,Jérémy Toulalan,Málaga,73.29,30.26
+4723,22.2368888336,17.325,-13.94,False,Duda,Málaga,87.675,42.092
+4727,30.9779591968,30.87,2.584,False,Jérémy Toulalan,Málaga,74.13,34.136
+4732,8.86199616339,-7.56,4.624,False,Marco Reus,Dortmund,7.56,32.096
+4740,12.1817082546,-12.18,0.204,False,Mario Götze,Dortmund,12.18,36.448
+4746,1.28902443732,1.26,0.272,True,Eliseu,Málaga,103.74,35.156
+4749,9.99314745213,-9.87,1.564,False,Robert Lewandowski,Dortmund,9.87,30.26
+4750,24.1222019103,-22.575,-8.5,False,Marco Reus,Dortmund,22.575,38.488
+4754,11.5840770457,-8.085,8.296,True,Marco Reus,Dortmund,8.085,27.336
+4757,6.36020785824,-1.47,6.188,True,Felipe Santana,Dortmund,1.47,28.968
+4761,33.0952082483,-32.445,-6.528,False,Ángel Di María,Real Madrid,32.445,36.584
+4767,5.49268686528,-4.515,3.128,True,Cristiano Ronaldo,Real Madrid,4.515,32.572
+4768,21.5620650449,-19.845,8.432,False,Cristiano Ronaldo,Real Madrid,19.845,26.996
+4770,12.9731421021,-10.92,-7.004,False,Ángel Di María,Real Madrid,10.92,42.568
+4773,21.0182212616,17.325,-11.9,False,Wesley Sneijder,Galatasaray,87.675,44.88
+4780,19.4597123309,17.01,-9.452,False,Umut Bulut,Galatasaray,87.99,44.608
+4784,29.370515845,-28.455,-7.276,False,Selçuk İnan,Galatasaray,28.455,43.588
+4800,4.73558824224,3.15,-3.536,False,Cristiano Ronaldo,Real Madrid,101.85,32.776
+4806,22.2171307778,-22.05,-2.72,True,Emmanuel Eboué,Galatasaray,22.05,34.136
+4812,6.94868505546,-6.72,-1.768,False,Wesley Sneijder,Galatasaray,6.72,40.936
+4815,10.0347827082,-4.62,-8.908,False,Didier Drogba,Galatasaray,4.62,45.288
+4823,11.2872997657,-10.92,2.856,True,Wesley Sneijder,Galatasaray,10.92,28.084
+4832,7.14068631155,-7.035,-1.224,True,Didier Drogba,Galatasaray,7.035,32.164
+4841,16.4967531351,5.04,-15.708,False,Cristiano Ronaldo,Real Madrid,99.96,47.26
+4843,17.6385308062,-14.805,-9.588,False,Gökhan Zan,Galatasaray,14.805,39.1
+4851,34.0667172619,-33.075,-8.16,False,Nordin Amrabat,Galatasaray,33.075,37.604
+4853,11.9241932222,11.76,-1.972,True,Cristiano Ronaldo,Real Madrid,93.24,39.168
+4861,15.729905308,-7.665,13.736,False,Arjen Robben,Bayern,7.665,22.032
+4863,11.7687063435,11.655,1.632,False,Gerard Piqué,Barcelona,93.345,28.084
+4868,25.55580842,-7.56,24.412,False,Thomas Müller,Bayern,7.56,12.58
+4874,13.4543765742,-6.405,11.832,True,Thomas Müller,Bayern,6.405,25.296
+4877,5.88157257883,5.88,0.136,True,Mario Gomez,Bayern,99.12,32.164
+4890,21.9288314554,18.375,-11.968,False,Thomas Müller,Bayern,86.625,41.888
+4899,15.1391652346,6.51,13.668,False,Franck Ribéry,Bayern,98.49,24.48
+4901,10.7738186823,9.135,-5.712,False,Arjen Robben,Bayern,95.865,43.792
+4904,15.359789354,-8.715,12.648,False,Marc Bartra,Barcelona,8.715,23.936
+4907,14.7868633929,2.625,-14.552,True,Arjen Robben,Bayern,102.375,45.22
+4909,4.80712481635,-3.465,3.332,False,Marc Bartra,Barcelona,3.465,34.68
+4913,9.67596692843,6.3,-7.344,False,Thomas Müller,Bayern,98.7,42.772
+4922,0.68,0.0,0.68,True,Thomas Müller,Bayern,105.0,30.6
+4932,32.9224740869,21.63,-24.82,False,Arjen Robben,Bayern,83.37,54.468
+4934,26.8153285268,26.67,-2.788,False,Ángel Di María,Real Madrid,78.33,40.188
+4937,12.7016258802,11.13,-6.12,False,Gonzalo Higuaín,Real Madrid,93.87,41.004
+4941,26.006465523,25.515,-5.032,False,Ángel Di María,Real Madrid,79.485,33.32
+4946,11.0185248105,10.815,-2.108,False,Cristiano Ronaldo,Real Madrid,94.185,38.488
+4948,10.3253522942,-7.77,6.8,False,Robert Lewandowski,Dortmund,7.77,28.492
+4955,10.3010036404,10.29,-0.476,False,Mesut Özil,Real Madrid,94.71,39.644
+4962,20.1039415041,19.74,3.808,False,Cristiano Ronaldo,Real Madrid,85.26,24.616
+4963,28.8418545867,28.14,6.324,False,Cristiano Ronaldo,Real Madrid,76.86,30.464
+4968,13.1640960571,11.655,6.12,False,Robert Lewandowski,Dortmund,93.345,30.736
+4973,7.20675523381,7.035,1.564,False,İlkay Gündoğan ,Dortmund,97.965,29.648
+4977,10.675,9.555,-4.76,False,Robert Lewandowski,Dortmund,95.445,34.136
+4984,13.3503792081,-11.865,-6.12,False,Cristiano Ronaldo,Real Madrid,11.865,38.148
+4991,18.0218001598,-10.815,-14.416,False,Kaká,Real Madrid,10.815,43.316
+4999,30.5094497001,-28.035,12.036,False,Sami Khedira,Real Madrid,28.035,24.208
+5005,5.13739272394,-2.73,4.352,True,Karim Benzema,Real Madrid,2.73,32.096
+5007,0.87831884871,-0.63,-0.612,False,Sergio Ramos,Real Madrid,0.63,36.38
+5012,10.0822505424,-8.4,5.576,False,Sergio Ramos,Real Madrid,8.4,28.288
+5015,20.3691629676,-17.22,10.88,False,Karim Benzema,Real Madrid,17.22,24.684
+5017,15.5927290748,-9.66,-12.24,True,Sergio Ramos,Real Madrid,9.66,44.472
+5019,13.098202014,-10.08,-8.364,False,Sergio Ramos,Real Madrid,10.08,37.468
+5023,20.9981360125,-16.17,13.396,False,Jakub Błaszczykowski,Dortmund,16.17,21.76
+5026,27.3783052982,-26.985,-4.624,False,Robert Lewandowski,Dortmund,26.985,40.188
+5030,11.1390593858,-5.67,9.588,False,Jakub Błaszczykowski,Dortmund,5.67,26.52
+5033,19.6669180097,-15.96,-11.492,False,Marco Reus,Dortmund,15.96,44.472
+5036,15.9745202119,-12.18,-10.336,False,Sven Bender,Dortmund,12.18,45.424
+5040,7.56910589172,2.31,-7.208,False,Mario Mandžukić,Bayern,102.69,41.956
+5053,12.7456866822,1.575,-12.648,False,Arjen Robben,Bayern,103.425,47.6
+5055,14.4162833282,-3.675,13.94,False,Robert Lewandowski,Dortmund,3.675,22.236
+5057,10.4310929437,8.19,-6.46,False,Thomas Müller,Bayern,96.81,35.7
+5061,14.8555107957,14.805,1.224,False,Arjen Robben,Bayern,90.195,32.572
+5064,7.61857309475,-6.3,-4.284,False,Mario Mandžukić,Bayern,6.3,39.032
+5074,8.41525780948,-2.31,8.092,True,Mario Mandžukić,Bayern,2.31,28.764
+5077,16.8324593866,-2.835,16.592,False,Mario Mandžukić,Bayern,2.835,19.244
+5088,27.4152338856,27.195,3.468,False,Kevin Grosskreutz,Dortmund,77.805,24.616
+5089,11.4061562763,11.025,2.924,True,İlkay Gündoğan ,Dortmund,93.975,34.0
+5092,19.3867427899,19.11,-3.264,False,Mats Hummels,Dortmund,85.89,36.244
+5097,23.9510584317,-22.26,-8.84,False,David Alaba,Bayern,22.26,45.492
+5102,18.3447802113,-2.625,18.156,False,Mario Mandžukić,Bayern,2.625,19.72
+5104,20.3377757142,-19.215,6.664,False,Bastian Schweinsteiger,Bayern,19.215,27.54
+5109,19.6360597117,-19.635,-0.204,False,Bastian Schweinsteiger,Bayern,19.635,32.028
+5113,6.82995058547,-6.615,1.7,True,Arjen Robben,Bayern,6.615,34.748
+5121,15.5112428902,10.92,11.016,False,Julian Schieber,Dortmund,94.08,20.536
