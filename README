@@ -1,0 +1,1 @@
+This repository was created due to requests to share the code and data used to make a visualization I shared on reddit (/r/soccer and /r/dataisbeautiful). Hopefully, it will become a usefull repository of analysis and data about The Beautiful Game.
