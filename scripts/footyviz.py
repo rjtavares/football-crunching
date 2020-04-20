@@ -83,19 +83,15 @@ def draw_patches(axes):
 
     return axes
 
-def draw_frame(df, t, size=1, dpi=100, fps=20, display_num=False, display_time=False, speed=1.0, show_players=True,
+def draw_frame(df, t, dpi=100, fps=20, display_num=False, display_time=False, show_players=True,
                highlight_color=None, highlight_player=None, shadow_player=None, text_color='white', flip=False, **anim_args):
     """
     Draws players from time t (in seconds) from a DataFrame df
     """
-    f = int(round(t*fps*speed))
-
     fig, ax = draw_pitch(dpi=dpi)
 
-    dfFrame = df.loc[f].set_index('player')
-    dfFrame.player_num = dfFrame.player_num.fillna('')
-    dfFrame.z = dfFrame.z.fillna(0)
-
+    dfFrame = get_frame(df, t, fps=fps)
+ 
     if show_players:
         for pid in dfFrame.index:
             if pid==0:
@@ -183,3 +179,8 @@ def calculate_voronoi(dfFrame):
     dfTemp['region'] = vor.point_region[:-4]
 
     return vor, dfTemp
+
+def get_frame(df, t, fps=20):
+    dfFrame = df.loc[int(t*fps)].set_index('player')
+    dfFrame.player_num = dfFrame.player_num.fillna('')
+    return dfFrame
