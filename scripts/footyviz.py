@@ -21,30 +21,33 @@ GOAL_AREA_WIDTH = 5.4864/X_SIZE*100
 SCALERS = np.array([X_SIZE/100, Y_SIZE/100])
 pitch_polygon = Polygon(((0,0), (0,100), (100,100), (100,0)))
 
-def draw_pitch(dpi=100, pitch_color='#a8bc95'):
+def draw_pitch(dpi=100, pitch_color='#a8bc95', fig=None, ax=None, size=1):
     """Sets up field
     Returns matplotlib fig and axes objects.
     """
-    fig = plt.figure(figsize=(12.8, 7.2), dpi=dpi)
+    if fig is None:
+        figsize=(12.8*size, 7.2*size)
+        fig = plt.figure(figsize=figsize, dpi=dpi)
     fig.patch.set_facecolor(pitch_color)
 
-    axes = fig.add_subplot(1, 1, 1)
-    axes.set_axis_off()
-    axes.set_facecolor(pitch_color)
-    axes.xaxis.set_visible(False)
-    axes.yaxis.set_visible(False)
+    if ax is None:
+        ax = fig.add_subplot(1, 1, 1)
+    ax.set_axis_off()
+    ax.set_facecolor(pitch_color)
+    ax.xaxis.set_visible(False)
+    ax.yaxis.set_visible(False)
 
-    axes.set_xlim(0,100)
-    axes.set_ylim(0,100)
+    ax.set_xlim(0,100)
+    ax.set_ylim(0,100)
 
     plt.xlim([-13.32, 113.32])
     plt.ylim([-5, 105])
 
     fig.tight_layout(pad=3)
 
-    draw_patches(axes)
+    draw_patches(ax)
 
-    return fig, axes
+    return fig, ax
 
 def draw_patches(axes):
     """
@@ -83,66 +86,78 @@ def draw_patches(axes):
 
     return axes
 
-def draw_frame(df, t, dpi=100, fps=20, display_num=False, display_time=False, show_players=True,
-               highlight_color=None, highlight_player=None, shadow_player=None, text_color='white', flip=False, **anim_args):
+def draw_frame(df, t, fig=None, ax=None, size=1, dpi=100, fps=20, label='player_num', show_players=True,
+               highlight_color=None, highlight_player=None, text_size=8, text_color='white', flip=False, voronoi=False, **anim_args):
     """
     Draws players from time t (in seconds) from a DataFrame df
     """
-    fig, ax = draw_pitch(dpi=dpi)
+    fig, ax = draw_pitch(dpi=dpi, fig=fig, ax=ax, size=size)
 
     dfFrame = get_frame(df, t, fps=fps)
  
     if show_players:
-        for pid in dfFrame.index:
-            if pid==0:
-                #se for bola
-                try:
-                    z = dfFrame.loc[pid]['z']
-                except:
-                    z = 0
-                size = 1.2+z
-                lw = 0.9
-                color='black'
-                edge='white'
-                zorder = 100
-            else:
-                #se for jogador
-                size = 3
-                lw = 2
-                edge = dfFrame.loc[pid]['edgecolor']
+        fig, ax, dfFrame = add_players(fig, ax, dfFrame,
+                                       label=label, highlight_color=highlight_color, highlight_player= highlight_player, 
+                                       text_size=text_size, text_color=text_color)
+    if voronoi == True:
+        fig, ax, dfFrame = add_voronoi(fig, ax, dfFrame)
+    return fig, ax, dfFrame
 
-                if pid == highlight_player:
-                    color = highlight_color
-                else:
-                    color = dfFrame.loc[pid]['bgcolor']
-                if dfFrame.loc[pid]['team']=='attack':
-                    zorder = 21
-                else:
-                    zorder = 20
-
-            ax.add_artist(Ellipse((dfFrame.loc[pid]['x'],
-                                dfFrame.loc[pid]['y']),
-                                size/X_SIZE*100, size/Y_SIZE*100,
-                                edgecolor=edge,
-                                linewidth=lw,
-                                facecolor=color,
-                                alpha=0.8,
-                                zorder=zorder))
-
+def add_players(fig, ax, dfFrame, label='player_num', highlight_color=None, highlight_player=None, text_size=8, text_color='white'):
+    for pid in dfFrame.index:
+        if pid==0:
+            #se for bola
             try:
-                s = str(int(dfFrame.loc[pid]['player_num']))
-            except ValueError:
+                z = dfFrame.loc[pid]['z']
+            except:
+                z = 0
+            size = 1.2+z
+            lw = 0.9
+            color='black'
+            edge='white'
+            zorder = 100
+        else:
+            #se for jogador
+            size = 3
+            lw = 2
+            edge = dfFrame.loc[pid]['edgecolor']
+
+            if pid == highlight_player:
+                color = highlight_color
+            else:
+                color = dfFrame.loc[pid]['bgcolor']
+            if dfFrame.loc[pid]['team']=='attack':
+                zorder = 21
+            else:
+                zorder = 20
+
+        ax.add_artist(Ellipse((dfFrame.loc[pid]['x'],
+                            dfFrame.loc[pid]['y']),
+                            size/X_SIZE*100, size/Y_SIZE*100,
+                            edgecolor=edge,
+                            linewidth=lw,
+                            facecolor=color,
+                            alpha=0.8,
+                            zorder=zorder))
+
+        if text_color is not None:
+            try:
+                s = dfFrame.loc[pid][label]
+                if isinstance(s, str)==False:
+                    s = str(int(label))
+            except:
                 s = ''
             text = plt.text(dfFrame.loc[pid]['x'],dfFrame.loc[pid]['y'],s,
                             horizontalalignment='center', verticalalignment='center',
-                            fontsize=8, color=text_color, zorder=22, alpha=0.8)
+                            fontsize=text_size, color=text_color, zorder=22, alpha=0.8)
 
             text.set_path_effects([path_effects.Stroke(linewidth=1, foreground=text_color, alpha=0.8),
                                 path_effects.Normal()])
-            
-    return fig, ax, dfFrame
 
-def add_voronoi_to_fig(fig, ax, dfFrame):
+    return fig, ax, dfFrame
+    
+    
+def add_voronoi(fig, ax, dfFrame):
     polygons = {}
     vor, dfVor = calculate_voronoi(dfFrame)
     for index, region in enumerate(vor.regions):
@@ -182,5 +197,4 @@ def calculate_voronoi(dfFrame):
 
 def get_frame(df, t, fps=20):
     dfFrame = df.loc[int(t*fps)].set_index('player')
-    dfFrame.player_num = dfFrame.player_num.fillna('')
     return dfFrame
