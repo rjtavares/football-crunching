@@ -1,5 +1,6 @@
 .ipynb_checkpoints
 notebooks/output/*
+notebooks/cache/*
 .vscode
 *.pyc
 datasets/external/*
